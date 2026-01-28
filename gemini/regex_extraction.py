@@ -36,7 +36,7 @@ def parse_dms(dms_str):
     decimal_degrees = d + (m / 60) + (s / 3600)
     
     # Handle Hemisphere
-    if direction in ['S', 'W']:
+    if direction in ['S']:
         decimal_degrees *= -1
         
     return decimal_degrees
@@ -50,20 +50,32 @@ raw_coord = "38°17′37.3″S 176°47′32.5″E"
 
     # Output: -38.29369..., 176.79236...
 
-def convert_cords(convert_cords : str) -> Tuple[float,float]:
-    '''
-    Docstring for convert_cords
-    
-    :param raw_coord: Description
-    :type raw_coord: str
-    '''
-    if convert_cords == "":
+def convert_cords(coord_string: str) -> Tuple[float, float]:
+    if not coord_string:
         return ""
-    parts = re.findall(r"[\d\.]+[^NSEW]*[NSEW]", raw_coord)
 
-    if len(parts) == 2:
-        lat = parse_dms(parts[0])
-        lon = parse_dms(parts[1])
-        return lat,lon
-    else:
-        raise ValueError(f"Did not correctly convert data of {raw_coord}")
+    # This regex looks for:
+    # 1. A number (possibly decimal)
+    # 2. Any characters that aren't a letter (the degrees/minutes/seconds)
+    # 3. A Direction letter (N, S, E, or W)
+    pattern = r"(\d+(?:\.\d+)?[^NSEW]*[NSEW])"
+    
+    # Use findall to get ALL matches in the string
+    matches = re.findall(pattern, coord_string)
+
+    # Wikipedia strings often have the coordinates TWICE (DMS format and Decimal format)
+    # e.g., "44°S 176°W / 44.0°S 176.3°W"
+    # We only need the first two matches (Lat and Lon)
+    if len(matches) >= 2:
+        try:
+            lat = parse_dms(matches[0])
+            lon = parse_dms(matches[1])
+            return (lat, lon)
+        except Exception:
+            return ""
+            
+    return ""
+if __name__ == "__main__":
+    print(convert_cords(raw_coord))
+    print(convert_cords("44°2′13″S176°23′0″W� / �44.03694°S 176.38333°W� /-44.03694 "))
+    print(convert_cords("38°38′00″S176°34′41″E﻿ / ﻿38.633332°S 176.578077°E﻿ /-38.633332; 176.578077﻿ (Wheao hydroelectric power station)"))
