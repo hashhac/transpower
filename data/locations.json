@@ -1,0 +1,1990 @@
+[
+   {
+      "location": "Akaroa",
+      "latitude": 43.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 172.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Alexandra",
+      "latitude": 45.24916666666667,
+      "latitude_heading": " S",
+      "longitude": 169.37972222222223,
+      "longitude_heading": " E"
+   },
+   {
+      "location": "Amberley",
+      "latitude": 43.15,
+      "latitude_heading": "S",
+      "longitude": 172.73333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Aoraki Mount Cook",
+      "latitude": 43.6,
+      "latitude_heading": "S",
+      "longitude": 170.15,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Arrowtown",
+      "latitude": 44.95,
+      "latitude_heading": "S",
+      "longitude": 168.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Arthur's Pass",
+      "latitude": 42.9,
+      "latitude_heading": "S",
+      "longitude": 171.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ashburton",
+      "latitude": 43.88333333333333,
+      "latitude_heading": "S",
+      "longitude": 171.8,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Aspiring, Mt.,",
+      "latitude": 44.38333333333333,
+      "latitude_heading": "S",
+      "longitude": 168.76666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Auckland",
+      "latitude": 36.86666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.76666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Awatere",
+      "latitude": 41.61666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Balclutha",
+      "latitude": 46.25,
+      "latitude_heading": "S",
+      "longitude": 169.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Banks Pen.",
+      "latitude": 43.75,
+      "latitude_heading": "S",
+      "longitude": 173.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bay View",
+      "latitude": 39.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 176.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Blackball",
+      "latitude": 42.36666666666667,
+      "latitude_heading": "S",
+      "longitude": 171.43333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Blenheim",
+      "latitude": 41.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 173.95,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bligh Sound",
+      "latitude": 44.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 167.53333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bluff",
+      "latitude": 46.61666666666667,
+      "latitude_heading": "S",
+      "longitude": 168.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Breaksea Sd.",
+      "latitude": 45.583333333333336,
+      "latitude_heading": "S",
+      "longitude": 166.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bream B.",
+      "latitude": 35.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 174.46666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bream Hd.",
+      "latitude": 35.85,
+      "latitude_heading": "S",
+      "longitude": 174.6,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Brett, C.",
+      "latitude": 35.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Brunner, L.",
+      "latitude": 42.61666666666667,
+      "latitude_heading": "S",
+      "longitude": 171.45,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Bulls",
+      "latitude": 40.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 175.4,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Cambridge",
+      "latitude": 37.9,
+      "latitude_heading": "S",
+      "longitude": 175.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Canterbury Bight",
+      "latitude": 44.266666666666666,
+      "latitude_heading": "S",
+      "longitude": 171.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Canterbury Plains",
+      "latitude": 43.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 171.36666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Carterton",
+      "latitude": 41.03333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.51666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Chalky Inlet",
+      "latitude": 46.05,
+      "latitude_heading": "S",
+      "longitude": 166.51666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Christchurch",
+      "latitude": 43.55,
+      "latitude_heading": "S",
+      "longitude": 172.78333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Clarence",
+      "latitude": 42.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 173.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Clifden",
+      "latitude": 46.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 167.7,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Clinton",
+      "latitude": 46.2,
+      "latitude_heading": "S",
+      "longitude": 81.53333333333333,
+      "longitude_heading": "W"
+   },
+   {
+      "location": "Clutha",
+      "latitude": 46.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 169.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Clyde",
+      "latitude": 45.2,
+      "latitude_heading": "S",
+      "longitude": 169.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Coleridge, L.",
+      "latitude": 43.28333333333333,
+      "latitude_heading": "S",
+      "longitude": 171.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Collingwood",
+      "latitude": 40.68333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Colville, C.",
+      "latitude": 36.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 175.35,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Cook, Mt./Aoraki Mount Cook",
+      "latitude": 43.6,
+      "latitude_heading": "S",
+      "longitude": 170.15,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Cook Strait",
+      "latitude": 41.25,
+      "latitude_heading": "S",
+      "longitude": 174.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Coromandel",
+      "latitude": 36.75,
+      "latitude_heading": "S",
+      "longitude": 175.51666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Cromwell",
+      "latitude": 45.05,
+      "latitude_heading": "S",
+      "longitude": 169.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Culverden",
+      "latitude": 42.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Cuvier I.",
+      "latitude": 36.45,
+      "latitude_heading": "S",
+      "longitude": 175.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dannevirke",
+      "latitude": 40.2,
+      "latitude_heading": "S",
+      "longitude": 176.13333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dargaville",
+      "latitude": 35.95,
+      "latitude_heading": "S",
+      "longitude": 173.86666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Devonport",
+      "latitude": 36.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Donnelly's Crossing",
+      "latitude": 35.7,
+      "latitude_heading": "S",
+      "longitude": 173.63333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Doubtful Sd.",
+      "latitude": 45.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 166.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Doubtless B.",
+      "latitude": 34.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 173.43333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dunback",
+      "latitude": 45.38333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.6,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dunedin",
+      "latitude": 45.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 170.55,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dunstan Mts.",
+      "latitude": 44.88333333333333,
+      "latitude_heading": "S",
+      "longitude": 169.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "D'Uravile I.",
+      "latitude": 40.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 173.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Dusky Sd.",
+      "latitude": 45.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 76.4,
+      "longitude_heading": "W"
+   },
+   {
+      "location": "Earnslaw, Mt.",
+      "latitude": 44.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 168.45,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "East C.",
+      "latitude": 37.7,
+      "latitude_heading": "S",
+      "longitude": 178.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Eastbourne",
+      "latitude": 41.31666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Edievale",
+      "latitude": 45.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 169.36666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Egmont, Mt./Taranaki Mt.",
+      "latitude": 39.266666666666666,
+      "latitude_heading": "S",
+      "longitude": 173.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Eketahuna",
+      "latitude": 40.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ellesmere, L.",
+      "latitude": 43.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.46666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Eltham",
+      "latitude": 39.43333333333333,
+      "latitude_heading": "S",
+      "longitude": 174.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Eyre Mts.",
+      "latitude": 45.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 168.41666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Fairlie",
+      "latitude": 44.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 170.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Farewell, C.",
+      "latitude": 40.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 172.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Featherston",
+      "latitude": 41.1,
+      "latitude_heading": "S",
+      "longitude": 175.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Feilding",
+      "latitude": 40.21666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Foveaux Str.",
+      "latitude": 46.7,
+      "latitude_heading": "S",
+      "longitude": 168.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Foxton",
+      "latitude": 40.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 175.3,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Garvie Mts.",
+      "latitude": 45.5,
+      "latitude_heading": "S",
+      "longitude": 168.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "George Sound",
+      "latitude": 44.86666666666667,
+      "latitude_heading": "S",
+      "longitude": 167.41666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Gisborne",
+      "latitude": 38.65,
+      "latitude_heading": "S",
+      "longitude": 178.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Golden B.",
+      "latitude": 40.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 172.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Gore",
+      "latitude": 46.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 168.96666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Granity",
+      "latitude": 41.65,
+      "latitude_heading": "S",
+      "longitude": 171.85,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Great Barrier I.",
+      "latitude": 36.18333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.41666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Grey",
+      "latitude": 42.45,
+      "latitude_heading": "S",
+      "longitude": 171.2,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Greymouth",
+      "latitude": 42.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 171.21666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Greytown",
+      "latitude": 41.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 175.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Haast",
+      "latitude": 43.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 169.03333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Halcombe",
+      "latitude": 40.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Halfmoon Bay",
+      "latitude": 46.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 168.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hamilton",
+      "latitude": 37.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hampden",
+      "latitude": 45.3,
+      "latitude_heading": "S",
+      "longitude": 170.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hanmer Springs",
+      "latitude": 42.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hastings",
+      "latitude": 39.65,
+      "latitude_heading": "S",
+      "longitude": 176.86666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hauraki G.",
+      "latitude": 36.583333333333336,
+      "latitude_heading": "S",
+      "longitude": 175.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Havelock",
+      "latitude": 41.28333333333333,
+      "latitude_heading": "S",
+      "longitude": 173.8,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hawea, L.",
+      "latitude": 44.46666666666667,
+      "latitude_heading": "S",
+      "longitude": 169.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hawera",
+      "latitude": 39.583333333333336,
+      "latitude_heading": "S",
+      "longitude": 174.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hake B.",
+      "latitude": 39.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 177.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Helensville",
+      "latitude": 36.68333333333333,
+      "latitude_heading": "S",
+      "longitude": 174.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hikurangi, Gisborne",
+      "latitude": 37.916666666666664,
+      "latitude_heading": "N",
+      "longitude": 178.06666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hikurangi, Northland",
+      "latitude": 35.6,
+      "latitude_heading": "S",
+      "longitude": 174.28333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hokianga Harbour",
+      "latitude": 35.516666666666666,
+      "latitude_heading": "S",
+      "longitude": 173.36666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hokitika",
+      "latitude": 42.7,
+      "latitude_heading": "S",
+      "longitude": 171.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Houhora Heads",
+      "latitude": 34.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 173.15,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hunterville",
+      "latitude": 39.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Huntly",
+      "latitude": 37.56666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.18333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Hurunui",
+      "latitude": 42.9,
+      "latitude_heading": "S",
+      "longitude": 173.3,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Inangahua",
+      "latitude": 41.86666666666667,
+      "latitude_heading": "S",
+      "longitude": 171.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Inglewood",
+      "latitude": 39.15,
+      "latitude_heading": "S",
+      "longitude": 174.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Invercargill",
+      "latitude": 46.4,
+      "latitude_heading": "S",
+      "longitude": 168.4,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Islands, B. of",
+      "latitude": 35.25,
+      "latitude_heading": "S",
+      "longitude": 174.1,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Jackson B.",
+      "latitude": 43.96666666666667,
+      "latitude_heading": "S",
+      "longitude": 168.7,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Jacksons",
+      "latitude": 42.766666666666666,
+      "latitude_heading": "S",
+      "longitude": 171.53333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaiapoi",
+      "latitude": 43.4,
+      "latitude_heading": "S",
+      "longitude": 172.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaikohe",
+      "latitude": 35.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 173.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaikoura",
+      "latitude": 42.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 173.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaikoura Ra.",
+      "latitude": 41.983333333333334,
+      "latitude_heading": "S",
+      "longitude": 173.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaimanawa Mts.",
+      "latitude": 39.25,
+      "latitude_heading": "S",
+      "longitude": 175.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaipara Harbour",
+      "latitude": 36.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaitaia",
+      "latitude": 35.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 173.28333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kaitangata",
+      "latitude": 46.28333333333333,
+      "latitude_heading": "S",
+      "longitude": 169.85,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kakanui Mts.",
+      "latitude": 45.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 170.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kapiti I.",
+      "latitude": 40.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 174.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kapuni",
+      "latitude": 39.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 174.13333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Karamea Bight",
+      "latitude": 41.36666666666667,
+      "latitude_heading": "S",
+      "longitude": 171.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kawerau",
+      "latitude": 38.11666666666667,
+      "latitude_heading": "S",
+      "longitude": 176.7,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kawhia Harbour",
+      "latitude": 38.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 174.85,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kelso",
+      "latitude": 45.9,
+      "latitude_heading": "S",
+      "longitude": 169.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kidnappers, C.",
+      "latitude": 39.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 177.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kingston",
+      "latitude": 45.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 168.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kinleith",
+      "latitude": 38.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 175.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kumara",
+      "latitude": 42.61666666666667,
+      "latitude_heading": "S",
+      "longitude": 171.2,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Kurow",
+      "latitude": 44.733333333333334,
+      "latitude_heading": "S",
+      "longitude": 170.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lawrence",
+      "latitude": 45.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 169.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Levin",
+      "latitude": 40.61666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.3,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lincoin",
+      "latitude": 43.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Little Barrier I.",
+      "latitude": 36.2,
+      "latitude_heading": "S",
+      "longitude": 175.13333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Little River",
+      "latitude": 43.75,
+      "latitude_heading": "S",
+      "longitude": 172.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lower Hutt",
+      "latitude": 41.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lumsden",
+      "latitude": 45.733333333333334,
+      "latitude_heading": "S",
+      "longitude": 168.45,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lyell",
+      "latitude": 41.8,
+      "latitude_heading": "S",
+      "longitude": 172.06666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Lyttelton",
+      "latitude": 43.583333333333336,
+      "latitude_heading": "S",
+      "longitude": 172.73333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Maheno",
+      "latitude": 45.166666666666664,
+      "latitude_heading": "S",
+      "longitude": 170.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "MahiaPen.",
+      "latitude": 39.15,
+      "latitude_heading": "S",
+      "longitude": 177.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Manapouri",
+      "latitude": 45.56666666666667,
+      "latitude_heading": "S",
+      "longitude": 167.65,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Manapouri",
+      "latitude": 45.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 167.53333333333333,
+      "longitude_heading": "W"
+   },
+   {
+      "location": "Mangaweka",
+      "latitude": 39.8,
+      "latitude_heading": "S",
+      "longitude": 175.78333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mangonui",
+      "latitude": 35.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 17.005333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Manukau",
+      "latitude": 40.71666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.21666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Maria Van DieMen, C.",
+      "latitude": 34.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 172.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Martinborough",
+      "latitude": 41.233333333333334,
+      "latitude_heading": "S",
+      "longitude": 175.48333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Marton",
+      "latitude": 40.06666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.38333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mastaerton",
+      "latitude": 40.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.65,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mataura",
+      "latitude": 4.183333333333334,
+      "latitude_heading": "S",
+      "longitude": 168.85,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Matiri Ra.",
+      "latitude": 41.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mayor I.",
+      "latitude": 37.266666666666666,
+      "latitude_heading": "S",
+      "longitude": 176.28333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mecer",
+      "latitude": 37.266666666666666,
+      "latitude_heading": "S",
+      "longitude": 175.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Methven",
+      "latitude": 43.63333333333333,
+      "latitude_heading": "S",
+      "longitude": 171.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Milford Sd.",
+      "latitude": 44.68333333333333,
+      "latitude_heading": "S",
+      "longitude": 167.78333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Milton",
+      "latitude": 46.11666666666667,
+      "latitude_heading": "S",
+      "longitude": 469.98333333333335,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mokai",
+      "latitude": 38.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mokau",
+      "latitude": 38.7,
+      "latitude_heading": "S",
+      "longitude": 174.65,
+      "longitude_heading": "S"
+   },
+   {
+      "location": "Morrinsville",
+      "latitude": 37.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 175.53333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mosgiel",
+      "latitude": 45.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 170.35,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mossburn",
+      "latitude": 45.68333333333333,
+      "latitude_heading": "S",
+      "longitude": 168.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Motueka",
+      "latitude": 41.11666666666667,
+      "latitude_heading": "S",
+      "longitude": 17.016666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Motueka",
+      "latitude": 41.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 17.016666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Mount Maunganui",
+      "latitude": 37.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 176.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Napier",
+      "latitude": 39.5,
+      "latitude_heading": "S",
+      "longitude": 176.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Naseby",
+      "latitude": 45.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 170.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Nelson",
+      "latitude": 41.3,
+      "latitude_heading": "S",
+      "longitude": 173.26666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "New Brighton",
+      "latitude": 43.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 172.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "New Plymouth",
+      "latitude": 39.06666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ngapara",
+      "latitude": 44.95,
+      "latitude_heading": "S",
+      "longitude": 170.76666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Nightcaps",
+      "latitude": 45.95,
+      "latitude_heading": "S",
+      "longitude": 168.03333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "North C.",
+      "latitude": 34.38333333333333,
+      "latitude_heading": "S",
+      "longitude": 173.06666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "North I.",
+      "latitude": 38.0,
+      "latitude_heading": "S",
+      "longitude": 175.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "North Taranaki Bight",
+      "latitude": 38.833333333333336,
+      "latitude_heading": "S",
+      "longitude": 174.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Northland",
+      "latitude": 35.5,
+      "latitude_heading": "S",
+      "longitude": 173.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Nugget Pt.",
+      "latitude": 46.45,
+      "latitude_heading": "S",
+      "longitude": 169.83333333333334,
+      "longitude_heading": "W"
+   },
+   {
+      "location": "Nuhaka",
+      "latitude": 39.05,
+      "latitude_heading": "S",
+      "longitude": 177.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Oamaru",
+      "latitude": 45.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 170.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ohai",
+      "latitude": 45.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 168.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ohakune",
+      "latitude": 39.4,
+      "latitude_heading": "S",
+      "longitude": 175.4,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ohau L.",
+      "latitude": 44.25,
+      "latitude_heading": "S",
+      "longitude": 169.88333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Okuru",
+      "latitude": 43.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 168.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ongarue",
+      "latitude": 38.7,
+      "latitude_heading": "S",
+      "longitude": 175.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Opotiki",
+      "latitude": 38.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 177.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Opua",
+      "latitude": 35.31666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.15,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Opunake",
+      "latitude": 39.43333333333333,
+      "latitude_heading": "S",
+      "longitude": 173.86666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Orepuki",
+      "latitude": 46.31666666666667,
+      "latitude_heading": "S",
+      "longitude": 167.76666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ormond",
+      "latitude": 38.55,
+      "latitude_heading": "S",
+      "longitude": 177.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Otago",
+      "latitude": 45.25,
+      "latitude_heading": "S",
+      "longitude": 170.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Otago Harbour",
+      "latitude": 45.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.7,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Otaki",
+      "latitude": 40.75,
+      "latitude_heading": "S",
+      "longitude": 175.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Otorohanga",
+      "latitude": 38.2,
+      "latitude_heading": "S",
+      "longitude": 175.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Owaka",
+      "latitude": 46.45,
+      "latitude_heading": "S",
+      "longitude": 169.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Oxford",
+      "latitude": 43.25,
+      "latitude_heading": "S",
+      "longitude": 172.18333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Paeroa",
+      "latitude": 37.38333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Pahiatua",
+      "latitude": 40.45,
+      "latitude_heading": "S",
+      "longitude": 175.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Palmerston",
+      "latitude": 45.483333333333334,
+      "latitude_heading": "S",
+      "longitude": 170.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Papakura",
+      "latitude": 37.06666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Paraparaumu",
+      "latitude": 40.95,
+      "latitude_heading": "S",
+      "longitude": 175.05,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Patea",
+      "latitude": 39.75,
+      "latitude_heading": "S",
+      "longitude": 174.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Pegasus Bay",
+      "latitude": 43.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 173.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Pelorus Sd.",
+      "latitude": 40.983333333333334,
+      "latitude_heading": "S",
+      "longitude": 173.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Petone",
+      "latitude": 41.21666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.88333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Picton",
+      "latitude": 41.3,
+      "latitude_heading": "S",
+      "longitude": 174.05,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Plenty B. of",
+      "latitude": 37.75,
+      "latitude_heading": "S",
+      "longitude": 177.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Port Chalmers",
+      "latitude": 45.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 170.5,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Port Pegasus",
+      "latitude": 47.2,
+      "latitude_heading": "S",
+      "longitude": 167.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Poteriteri",
+      "latitude": 46.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 167.16666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Poverty B.",
+      "latitude": 38.71666666666667,
+      "latitude_heading": "S",
+      "longitude": 178.03333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Preservation Inlet",
+      "latitude": 46.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 166.58333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Pukaki L.",
+      "latitude": 44.06666666666667,
+      "latitude_heading": "S",
+      "longitude": 170.01666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Pukekohe",
+      "latitude": 37.2,
+      "latitude_heading": "S",
+      "longitude": 174.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Putaruru",
+      "latitude": 38.03333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Queenstown",
+      "latitude": 45.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 168.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Raetihi",
+      "latitude": 39.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 175.28333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Raglan",
+      "latitude": 37.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rakaia",
+      "latitude": 43.75,
+      "latitude_heading": "S",
+      "longitude": 172.01666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rakaia",
+      "latitude": 43.6,
+      "latitude_heading": "S",
+      "longitude": 172.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rangaunu B.",
+      "latitude": 34.85,
+      "latitude_heading": "S",
+      "longitude": 173.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rangiora",
+      "latitude": 43.31666666666667,
+      "latitude_heading": "S",
+      "longitude": 172.6,
+      "longitude_heading": "W"
+   },
+   {
+      "location": "Rangitaiki",
+      "latitude": 37.9,
+      "latitude_heading": "S",
+      "longitude": 176.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rangitata",
+      "latitude": 43.75,
+      "latitude_heading": "S",
+      "longitude": 171.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Raukumara Ra",
+      "latitude": 38.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 177.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rawene",
+      "latitude": 35.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 173.53333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Reefton",
+      "latitude": 42.1,
+      "latitude_heading": "S",
+      "longitude": 171.85,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Reinga C.",
+      "latitude": 34.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 172.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Resolution I.",
+      "latitude": 45.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 166.66666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Riccarton",
+      "latitude": 43.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 172.61666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Richmond",
+      "latitude": 41.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 173.2,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Riverton",
+      "latitude": 46.35,
+      "latitude_heading": "S",
+      "longitude": 168.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rodney C.",
+      "latitude": 36.28333333333333,
+      "latitude_heading": "S",
+      "longitude": 174.83333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ross",
+      "latitude": 42.88333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.81666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Rotorao L.",
+      "latitude": 38.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 176.26666666666668,
+      "longitude_heading": " E"
+   },
+   {
+      "location": "Rotorua",
+      "latitude": -37.86666666666667,
+      "latitude_heading": "S",
+      "longitude": 176.25,
+      "longitude_heading": " E"
+   },
+   {
+      "location": "Roxburgh",
+      "latitude": 45.55,
+      "latitude_heading": "S",
+      "longitude": 169.31666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ruahine Ra.",
+      "latitude": 39.916666666666664,
+      "latitude_heading": "S",
+      "longitude": 176.03333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ruapuke I.",
+      "latitude": 46.766666666666666,
+      "latitude_heading": "S",
+      "longitude": 468.51666666666665,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Runanga",
+      "latitude": 42.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 171.25,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Runaway C.",
+      "latitude": 37.53333333333333,
+      "latitude_heading": "S",
+      "longitude": 177.98333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Saunders C",
+      "latitude": 45.88333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Secretary I.",
+      "latitude": 45.25,
+      "latitude_heading": "S",
+      "longitude": 166.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Seddon",
+      "latitude": 41.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.11666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Seddonville",
+      "latitude": 41.55,
+      "latitude_heading": "S",
+      "longitude": 172.01666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "South I.",
+      "latitude": 44.0,
+      "latitude_heading": "S",
+      "longitude": 170.0,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "South Invercargill",
+      "latitude": 46.43333333333333,
+      "latitude_heading": "S",
+      "longitude": 168.38333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "South Taranaki Bight",
+      "latitude": 39.666666666666664,
+      "latitude_heading": "S",
+      "longitude": 174.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Southwest C.",
+      "latitude": 47.28333333333333,
+      "latitude_heading": "S",
+      "longitude": 167.46666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Spenser Mts.",
+      "latitude": 42.25,
+      "latitude_heading": "S",
+      "longitude": 172.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Sperrin Mts.",
+      "latitude": 42.25,
+      "latitude_heading": "S",
+      "longitude": 172.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tadmor",
+      "latitude": 41.45,
+      "latitude_heading": "S",
+      "longitude": 172.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Taieri",
+      "latitude": 46.05,
+      "latitude_heading": "S",
+      "longitude": 170.2,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tasman B.",
+      "latitude": 40.983333333333334,
+      "latitude_heading": "S",
+      "longitude": 173.41666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Taupo",
+      "latitude": 38.68333333333333,
+      "latitude_heading": "S",
+      "longitude": 176.11666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Te Anau L.",
+      "latitude": 45.416666666666664,
+      "latitude_heading": "S",
+      "longitude": 167.71666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Te Anau L.",
+      "latitude": 45.25,
+      "latitude_heading": "S",
+      "longitude": 167.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Te Kuiti",
+      "latitude": 38.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 175.18333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Te Puke",
+      "latitude": 37.766666666666666,
+      "latitude_heading": "S",
+      "longitude": 176.36666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Temuka",
+      "latitude": 44.233333333333334,
+      "latitude_heading": "S",
+      "longitude": 171.28333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Thames",
+      "latitude": 37.11666666666667,
+      "latitude_heading": "S",
+      "longitude": 175.56666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Timaru",
+      "latitude": 44.38333333333333,
+      "latitude_heading": "S",
+      "longitude": 171.23333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tokarahi",
+      "latitude": 44.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.65,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tokanui",
+      "latitude": 46.56666666666667,
+      "latitude_heading": "S",
+      "longitude": 168.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tokarahi",
+      "latitude": 44.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.6,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tokanui",
+      "latitude": 46.56666666666667,
+      "latitude_heading": "S",
+      "longitude": 168.93333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tokarahi",
+      "latitude": 44.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 170.65,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Travers Mt.",
+      "latitude": 42.016666666666666,
+      "latitude_heading": "S",
+      "longitude": 172.75,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Tuatapere",
+      "latitude": 46.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 167.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Umbrella Mts.",
+      "latitude": 45.583333333333336,
+      "latitude_heading": "S",
+      "longitude": 169.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Upper Hutt",
+      "latitude": 41.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wakatipu L.",
+      "latitude": 45.083333333333336,
+      "latitude_heading": "S",
+      "longitude": 168.55,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wakefield",
+      "latitude": 41.4,
+      "latitude_heading": "S",
+      "longitude": 173.08333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wanaka",
+      "latitude": 44.7,
+      "latitude_heading": "S",
+      "longitude": 169.15,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wanaka L.",
+      "latitude": 44.55,
+      "latitude_heading": "S",
+      "longitude": 169.11666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wanganui",
+      "latitude": 39.93333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.05,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Ward",
+      "latitude": 41.81666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.18333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Waverley",
+      "latitude": 39.766666666666666,
+      "latitude_heading": "S",
+      "longitude": 174.61666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wellington",
+      "latitude": 41.31666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.76666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Westport",
+      "latitude": 41.766666666666666,
+      "latitude_heading": "S",
+      "longitude": 171.61666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Whakatane",
+      "latitude": 37.95,
+      "latitude_heading": "S",
+      "longitude": 177.01666666666668,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Whangamomona",
+      "latitude": 39.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 174.73333333333332,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Whangarei",
+      "latitude": 35.71666666666667,
+      "latitude_heading": "S",
+      "longitude": 174.35,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "White I.",
+      "latitude": 37.5,
+      "latitude_heading": "S",
+      "longitude": 177.21666666666667,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Whitecliffs",
+      "latitude": 43.43333333333333,
+      "latitude_heading": "S",
+      "longitude": 171.91666666666666,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Whitianga",
+      "latitude": 36.78333333333333,
+      "latitude_heading": "S",
+      "longitude": 175.68333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Winton",
+      "latitude": 46.13333333333333,
+      "latitude_heading": "S",
+      "longitude": 168.33333333333334,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Woodville",
+      "latitude": 40.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 175.88333333333333,
+      "longitude_heading": "E"
+   },
+   {
+      "location": "Wyndham",
+      "latitude": 46.333333333333336,
+      "latitude_heading": "S",
+      "longitude": 168.85,
+      "longitude_heading": "E"
+   }
+]
