@@ -46,7 +46,7 @@ def sort_location(map_distance : str) -> Tuple[float,str]:
             distance = float(degrees) + (float(minutes)/60) 
             return (distance,heading)
     except ValueError as e:
-        print(f" An error occured trying to split \n{'':_^80}\n {location} \n{'':_^80}\n digits |{map_distance}  \n{'':_^80} {e}")
+        print(f" An error occured trying to split \n{'':_^80}\n {""} \n{'':_^80}\n digits |{map_distance}  \n{'':_^80} {e}")
         exit(1)
 
 
@@ -85,7 +85,11 @@ data_path.mkdir(exist_ok=True)
 #     json.dump(data,file,indent=3)
 
 
-content = read_html(data_path/"List of power stations in New Zealand - Wikipedia.html")
-soup = BeautifulSoup(content, 'html.parser')
-tables = soup.find_all('table')
-print(tables)
+# content = read_html(data_path/"List of power stations in New Zealand - Wikipedia.html")
+# soup = BeautifulSoup(content, 'html.parser')
+# tables = soup.find_all('table')
+# print(tables)
+
+
+
+# TODO The latitude needs to be asseigned postive and negative later I should make a new json with it already applied.

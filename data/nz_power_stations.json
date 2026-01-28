@@ -1,10 +1,2620 @@
 {
-    "Hydroelectric": [],
-    "Wind": [],
-    "bioenenergy": [],
-    "Geothermal": [],
-    "Fossil-fuel-thermal": [],
-    "Solar": [],
-    "grid-battery-storage": [],
-    "future": []
+    "Hydroelectric": [
+        {
+            "Name": "Amethyst",
+            "Territorial authority": "Westland",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "7.6",
+            "Commissioned": "2013",
+            "Operator": "Westpower"
+        },
+        {
+            "Name": "Aniwhenua",
+            "Territorial authority": "Whakatane",
+            "Scheme": "",
+            "Coordinates": "38°17′37.3″S176°47′32.5″E﻿ / ﻿38.293694°S 176.792361°E﻿ /-38.293694; 176.792361﻿ (Aniwhenua hydroelectric power station)",
+            "Capacity (MW)": "25",
+            "Commissioned": "1980",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Arapuni",
+            "Territorial authority": "South Waikato",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°04′17″S175°38′36″E﻿ / ﻿38.07139°S 175.64333°E﻿ /-38.07139; 175.64333﻿ (Arapuni hydroelectric power station)",
+            "Capacity (MW)": "196.7",
+            "Commissioned": "1929, 1946",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Aratiatia",
+            "Territorial authority": "Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°36′57″S176°8′33″E﻿ / ﻿38.61583°S 176.14250°E﻿ /-38.61583; 176.14250﻿ (Aratiatia hydroelectric power station)",
+            "Capacity (MW)": "78",
+            "Commissioned": "1964",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Argyle",
+            "Territorial authority": "Marlborough",
+            "Scheme": "Branch River",
+            "Coordinates": "41°40′15″S173°12′12″E﻿ / ﻿41.67076°S 173.203316°E﻿ /-41.67076; 173.203316﻿ (Argyle hydroelectric power station)",
+            "Capacity (MW)": "3.8",
+            "Commissioned": "1983",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Arnold",
+            "Territorial authority": "Grey",
+            "Scheme": "",
+            "Coordinates": "42°31′45″S171°24′41″E﻿ / ﻿42.52905°S 171.411267°E﻿ /-42.52905; 171.411267﻿ (Arnold hydroelectric power station)",
+            "Capacity (MW)": "3.0",
+            "Commissioned": "1932",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Atiamuri",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°23′35″S176°1′24″E﻿ / ﻿38.39306°S 176.02333°E﻿ /-38.39306; 176.02333﻿ (Atiamuri hydroelectric power station)",
+            "Capacity (MW)": "84",
+            "Commissioned": "1962",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Aviemore[6]",
+            "Territorial authority": "Waitaki",
+            "Scheme": "Lower Waitaki",
+            "Coordinates": "44°39′21″S170°21′18″E﻿ / ﻿44.65583°S 170.35500°E﻿ /-44.65583; 170.35500﻿ (Aviemore hydroelectric power station)",
+            "Capacity (MW)": "220",
+            "Commissioned": "1968",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Benmore[6]",
+            "Territorial authority": "Waitaki",
+            "Scheme": "Lower Waitaki",
+            "Coordinates": "44°33′51″S170°11′50″E﻿ / ﻿44.56417°S 170.19722°E﻿ /-44.56417; 170.19722﻿ (Benmore hydroelectric power station)",
+            "Capacity (MW)": "540",
+            "Commissioned": "1965",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Cleardale",
+            "Territorial authority": "Ashburton",
+            "Scheme": "",
+            "Coordinates": "43°27′08.8″S171°35′03.8″E﻿ / ﻿43.452444°S 171.584389°E﻿ /-43.452444; 171.584389﻿ (Cleardale hydroelectric power station)",
+            "Capacity (MW)": "1.1",
+            "Commissioned": "2010",
+            "Operator": "Re-Generate NZ"
+        },
+        {
+            "Name": "Clyde",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Clutha River",
+            "Coordinates": "45°10′46″S169°18′25″E﻿ / ﻿45.17944°S 169.30694°E﻿ /-45.17944; 169.30694﻿ (Clyde hydroelectric power station)",
+            "Capacity (MW)": "432",
+            "Commissioned": "1992",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Cobb",
+            "Territorial authority": "Tasman",
+            "Scheme": "",
+            "Coordinates": "41°06′13″S172°41′16″E﻿ / ﻿41.10361°S 172.68778°E﻿ /-41.10361; 172.68778﻿ (Cobb hydroelectric power station)",
+            "Capacity (MW)": "34.3",
+            "Commissioned": "1956",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Coleridge",
+            "Territorial authority": "Selwyn",
+            "Scheme": "",
+            "Coordinates": "43°21′51″S171°31′37″E﻿ / ﻿43.36417°S 171.52694°E﻿ /-43.36417; 171.52694﻿ (Coleridge hydroelectric power station)",
+            "Capacity (MW)": "45",
+            "Commissioned": "1914",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Deep Stream",
+            "Territorial authority": "Clutha",
+            "Scheme": "Waipori",
+            "Coordinates": "",
+            "Capacity (MW)": "5",
+            "Commissioned": "2008",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Dillmans",
+            "Territorial authority": "Westland",
+            "Scheme": "Kumara",
+            "Coordinates": "",
+            "Capacity (MW)": "3.5",
+            "Commissioned": "1928",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Duffers",
+            "Territorial authority": "Westland",
+            "Scheme": "Kumara",
+            "Coordinates": "",
+            "Capacity (MW)": "0.5",
+            "Commissioned": "1928",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Ellis",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "7.8",
+            "Commissioned": "1981",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Falls",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Manuherikia River",
+            "Coordinates": "",
+            "Capacity (MW)": "1.3",
+            "Commissioned": "2003",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Flaxy",
+            "Territorial authority": "Whakatane",
+            "Scheme": "Wheao and Flaxy",
+            "Coordinates": "",
+            "Capacity (MW)": "2.1[7]",
+            "Commissioned": "1982",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Fraser (Lower)",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Fraser Power Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "2.8",
+            "Commissioned": "1956",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Fraser (Upper)",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Fraser Power Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "8",
+            "Commissioned": "2019",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "George",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "1",
+            "Commissioned": "1924 (refurbished 2002)",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Highbank[8]",
+            "Territorial authority": "Ashburton",
+            "Scheme": "Rangitata Diversion Race",
+            "Coordinates": "43°34′24″S171°44′08″E﻿ / ﻿43.573302°S 171.73557°E﻿ /-43.573302; 171.73557﻿ (Highbank hydroelectric power station)",
+            "Capacity (MW)": "25.2",
+            "Commissioned": "1945",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Hinemaiaia A",
+            "Territorial authority": "Taupō",
+            "Scheme": "Hinemaiaia",
+            "Coordinates": "38°53′24″S176°05′27″E﻿ / ﻿38.890086°S 176.090875°E﻿ /-38.890086; 176.090875﻿ (Hinemaiaia hydroelectric power station)",
+            "Capacity (MW)": "2.0",
+            "Commissioned": "1952",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Hinemaiaia B",
+            "Territorial authority": "Taupō",
+            "Scheme": "Hinemaiaia",
+            "Coordinates": "",
+            "Capacity (MW)": "1.3",
+            "Commissioned": "1966",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Hinemaiaia C",
+            "Territorial authority": "Taupō",
+            "Scheme": "Hinemaiaia",
+            "Coordinates": "",
+            "Capacity (MW)": "2.8",
+            "Commissioned": "1982",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Horseshoe Bend",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "4.3",
+            "Commissioned": "1999",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Kaimai 5",
+            "Territorial authority": "Western Bay of Plenty",
+            "Scheme": "Kaimai",
+            "Coordinates": "",
+            "Capacity (MW)": "0.35",
+            "Commissioned": "1994",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Kaitawa",
+            "Territorial authority": "Wairoa",
+            "Scheme": "Waikaremoana",
+            "Coordinates": "38°48′12″S177°07′52″E﻿ / ﻿38.80323°S 177.1311°E﻿ /-38.80323; 177.1311﻿ (Kaitawa hydroelectric power station)",
+            "Capacity (MW)": "36",
+            "Commissioned": "1948",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Kaniere Forks",
+            "Territorial authority": "Westland",
+            "Scheme": "Lake Kaniere",
+            "Coordinates": "",
+            "Capacity (MW)": "0.43",
+            "Commissioned": "1911",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Karapiro",
+            "Territorial authority": "Waipa",
+            "Scheme": "Waikato River",
+            "Coordinates": "37°55′26″S175°32′21″E﻿ / ﻿37.92389°S 175.53917°E﻿ /-37.92389; 175.53917﻿ (Karapiro hydroelectric power station)",
+            "Capacity (MW)": "90",
+            "Commissioned": "1948",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Kourarau",
+            "Territorial authority": "Carterton",
+            "Scheme": "",
+            "Coordinates": "41°04′1.2″S175°40′58.5″E﻿ / ﻿41.067000°S 175.682917°E﻿ /-41.067000; 175.682917﻿ (Kourarau Hydroelectric Power Station)",
+            "Capacity (MW)": "1.0",
+            "Commissioned": "1923, 1925",
+            "Operator": "Trust House"
+        },
+        {
+            "Name": "Kowhai",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "1.9",
+            "Commissioned": "2010",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Kuratau",
+            "Territorial authority": "Taupō",
+            "Scheme": "",
+            "Coordinates": "38°52′46.1″S175°44′8.1″E﻿ / ﻿38.879472°S 175.735583°E﻿ /-38.879472; 175.735583﻿ (Kuratau hydroelectric power station)",
+            "Capacity (MW)": "6",
+            "Commissioned": "1962",
+            "Operator": "King Country Energy"
+        },
+        {
+            "Name": "Kumara",
+            "Territorial authority": "Westland",
+            "Scheme": "Kumara",
+            "Coordinates": "",
+            "Capacity (MW)": "6.5",
+            "Commissioned": "1928",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Lloyd Mandeno",
+            "Territorial authority": "Western Bay of Plenty",
+            "Scheme": "Kaimai",
+            "Coordinates": "",
+            "Capacity (MW)": "15.6",
+            "Commissioned": "1972",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Lower Mangapapa",
+            "Territorial authority": "Western Bay of Plenty",
+            "Scheme": "Kaimai",
+            "Coordinates": "",
+            "Capacity (MW)": "6.0",
+            "Commissioned": "1979",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Manapouri",
+            "Territorial authority": "Southland",
+            "Scheme": "",
+            "Coordinates": "45°31′17″S167°16′40″E﻿ / ﻿45.52139°S 167.27778°E﻿ /-45.52139; 167.27778﻿ (Manapouri hydroelectric power station)",
+            "Capacity (MW)": "850",
+            "Commissioned": "1971",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Mangahao",
+            "Territorial authority": "Horowhenua",
+            "Scheme": "",
+            "Coordinates": "40°34′36″S175°27′1″E﻿ / ﻿40.57667°S 175.45028°E﻿ /-40.57667; 175.45028﻿ (Mangahao hydroelectric power station)",
+            "Capacity (MW)": "42",
+            "Commissioned": "1924",
+            "Operator": "Todd Energy"
+        },
+        {
+            "Name": "Mangorei",
+            "Territorial authority": "New Plymouth",
+            "Scheme": "",
+            "Coordinates": "39°06′18.5″S174°07′07.7″E﻿ / ﻿39.105139°S 174.118806°E﻿ /-39.105139; 174.118806﻿ (Mangorei hydroelectric power station)",
+            "Capacity (MW)": "4.5",
+            "Commissioned": "1906, 1931",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Maraetai I",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°21′09″S175°44′38″E﻿ / ﻿38.35250°S 175.74389°E﻿ /-38.35250; 175.74389﻿ (Maraetai hydroelectric power station)",
+            "Capacity (MW)": "252",
+            "Commissioned": "1954",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Maraetai II",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "",
+            "Capacity (MW)": "108",
+            "Commissioned": "1971",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Maraetai (mini)",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "",
+            "Operator": "Mercury"
+        },
+        {
+            "Name": "Matahina",
+            "Territorial authority": "Whakatane",
+            "Scheme": "",
+            "Coordinates": "38°06′54″S176°48′52″E﻿ / ﻿38.114908°S 176.814473°E﻿ /-38.114908; 176.814473﻿ (Matahina hydroelectric power station)",
+            "Capacity (MW)": "80",
+            "Commissioned": "1967",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Matiri",
+            "Territorial authority": "Buller",
+            "Scheme": "",
+            "Coordinates": "41°39′43″S172°20′4″E﻿ / ﻿41.66194°S 172.33444°E﻿ /-41.66194; 172.33444﻿ (Matiri Project)",
+            "Capacity (MW)": "5",
+            "Commissioned": "2020",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "McKays Creek",
+            "Territorial authority": "Westland",
+            "Scheme": "Lake Kaniere",
+            "Coordinates": "",
+            "Capacity (MW)": "1.1",
+            "Commissioned": "1931",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Michelle",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "1.6",
+            "Commissioned": "1982",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Monowai",
+            "Territorial authority": "Southland",
+            "Scheme": "",
+            "Coordinates": "45°46′32.5″S167°36′59.7″E﻿ / ﻿45.775694°S 167.616583°E﻿ /-45.775694; 167.616583﻿ (Monowai hydroelectric power station)",
+            "Capacity (MW)": "6.6",
+            "Commissioned": "1926",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Montalto[8]",
+            "Territorial authority": "Ashburton",
+            "Scheme": "Rangitata Diversion",
+            "Coordinates": "",
+            "Capacity (MW)": "1.8",
+            "Commissioned": "1982",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Motukawa",
+            "Territorial authority": "New Plymouth",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "4.5",
+            "Commissioned": "1927-1938",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Ohakuri",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°24′30″S176°5′22″E﻿ / ﻿38.40833°S 176.08944°E﻿ /-38.40833; 176.08944﻿ (Ohakuri hydroelectric power station)",
+            "Capacity (MW)": "112",
+            "Commissioned": "1962",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Ōhau A[6]",
+            "Territorial authority": "Mackenzie",
+            "Scheme": "Upper Waitaki",
+            "Coordinates": "44°15′52″S170°1′56″E﻿ / ﻿44.26444°S 170.03222°E﻿ /-44.26444; 170.03222﻿ (Ohau A hydroelectric power station)",
+            "Capacity (MW)": "264",
+            "Commissioned": "1980",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Ōhau B[6]",
+            "Territorial authority": "Waitaki",
+            "Scheme": "Upper Waitaki",
+            "Coordinates": "44°17′58″S170°6′44″E﻿ / ﻿44.29944°S 170.11222°E﻿ /-44.29944; 170.11222﻿ (Ohau B hydroelectric power station)",
+            "Capacity (MW)": "212",
+            "Commissioned": "1984",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Ōhau C[6]",
+            "Territorial authority": "Waitaki",
+            "Scheme": "Upper Waitaki",
+            "Coordinates": "44°20′31″S170°10′56″E﻿ / ﻿44.34194°S 170.18222°E﻿ /-44.34194; 170.18222﻿ (Ohau C hydroelectric power station)",
+            "Capacity (MW)": "212",
+            "Commissioned": "1985",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Omanawa Falls",
+            "Territorial authority": "Bay of Plenty",
+            "Scheme": "",
+            "Coordinates": "37°50′46.6″S176°05′21.3″E﻿ / ﻿37.846278°S 176.089250°E﻿ /-37.846278; 176.089250﻿ (Omanawa Falls hydroelectric power station)",
+            "Capacity (MW)": "0.3",
+            "Commissioned": "1915, extended 1921",
+            "Operator": "Omanawa Falls Hydro Limited"
+        },
+        {
+            "Name": "Onekaka",
+            "Territorial authority": "Tasman",
+            "Scheme": "",
+            "Coordinates": "40°46′56″S172°41′15″E﻿ / ﻿40.78222°S 172.68750°E﻿ /-40.78222; 172.68750﻿ (Onekaka power station)",
+            "Capacity (MW)": "0.94",
+            "Commissioned": "2003",
+            "Operator": "Onekaka Energy"
+        },
+        {
+            "Name": "Opuha",
+            "Territorial authority": "Mackenzie",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "7.5",
+            "Commissioned": "1999",
+            "Operator": "Opuha Water / Manawa Energy"
+        },
+        {
+            "Name": "Oxburn/Glenorchy",
+            "Territorial authority": "Queenstown Lakes",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.4",
+            "Commissioned": "1968",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Paerau",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Strath Taieri",
+            "Coordinates": "",
+            "Capacity (MW)": "10",
+            "Commissioned": "1984",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Patea",
+            "Territorial authority": "South Taranaki",
+            "Scheme": "",
+            "Coordinates": "39°32′46″S174°34′13″E﻿ / ﻿39.54611°S 174.57028°E﻿ /-39.54611; 174.57028﻿ (Ohau C hydroelectric power station)",
+            "Capacity (MW)": "32",
+            "Commissioned": "1984",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Patearoa",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Strath Taieri",
+            "Coordinates": "",
+            "Capacity (MW)": "2.3",
+            "Commissioned": "1984",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Piriaka",
+            "Territorial authority": "Ruapehu",
+            "Scheme": "",
+            "Coordinates": "38°54′42″S175°20′34″E﻿ / ﻿38.911584°S 175.342894°E﻿ /-38.911584; 175.342894﻿ (Piriaka hydroelectric power station)",
+            "Capacity (MW)": "1.3",
+            "Commissioned": "1924",
+            "Operator": "King Country Energy"
+        },
+        {
+            "Name": "Piripaua",
+            "Territorial authority": "Wairoa",
+            "Scheme": "Waikaremoana",
+            "Coordinates": "38°50′21″S177°10′05″E﻿ / ﻿38.83906°S 177.16817°E﻿ /-38.83906; 177.16817﻿ (Piripaua hydroelectric power station)",
+            "Capacity (MW)": "42",
+            "Commissioned": "1943",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Pupu",
+            "Territorial authority": "Tasman",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.3",
+            "Commissioned": "1929",
+            "Operator": "Pupu Hydro Society"
+        },
+        {
+            "Name": "Rangipo",
+            "Territorial authority": "Taupō",
+            "Scheme": "Tongariro",
+            "Coordinates": "39°09′12″S175°50′12″E﻿ / ﻿39.153316°S 175.836802°E﻿ /-39.153316; 175.836802﻿ (Rangipo hydroelectric power station)",
+            "Capacity (MW)": "120",
+            "Commissioned": "1983",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Rimu",
+            "Territorial authority": "Hastings",
+            "Scheme": "Esk",
+            "Coordinates": "",
+            "Capacity (MW)": "2.4",
+            "Commissioned": "2013",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Roaring Meg lower",
+            "Territorial authority": "Central Otago / Queentown Lakes",
+            "Scheme": "Roaring Meg",
+            "Coordinates": "",
+            "Capacity (MW)": "3.0",
+            "Commissioned": "1936",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Roaring Meg upper",
+            "Territorial authority": "Central Otago / Queentown Lakes",
+            "Scheme": "Roaring Meg",
+            "Coordinates": "",
+            "Capacity (MW)": "1.3",
+            "Commissioned": "1936",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Roxburgh",
+            "Territorial authority": "Central Otago",
+            "Scheme": "Clutha River",
+            "Coordinates": "45°28′33″S169°19′21″E﻿ / ﻿45.475811°S 169.322555°E﻿ /-45.475811; 169.322555﻿ (Roxburgh hydroelectric power station)",
+            "Capacity (MW)": "320",
+            "Commissioned": "1956",
+            "Operator": "Contact"
+        },
+        {
+            "Name": "Ruahihi",
+            "Territorial authority": "Western Bay of Plenty",
+            "Scheme": "Kaimai",
+            "Coordinates": "",
+            "Capacity (MW)": "20",
+            "Commissioned": "1981",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Tekapo A[6]",
+            "Territorial authority": "Mackenzie",
+            "Scheme": "Upper Waitaki",
+            "Coordinates": "44°00′50″S170°27′38″E﻿ / ﻿44.013805°S 170.460516°E﻿ /-44.013805; 170.460516﻿ (Tekapo A hydroelectric power station)",
+            "Capacity (MW)": "25",
+            "Commissioned": "1951",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Tekapo B[6]",
+            "Territorial authority": "Mackenzie",
+            "Scheme": "Upper Waitaki",
+            "Coordinates": "44°07′21″S170°12′43″E﻿ / ﻿44.12253°S 170.211947°E﻿ /-44.12253; 170.211947﻿ (Tekapo B hydroelectric power station)",
+            "Capacity (MW)": "160",
+            "Commissioned": "1977",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Tokaanu",
+            "Territorial authority": "Taupō",
+            "Scheme": "Tongariro",
+            "Coordinates": "38°58′52″S175°46′06″E﻿ / ﻿38.98113°S 175.768282°E﻿ /-38.98113; 175.768282﻿ (Tokaanu hydroelectric power station)",
+            "Capacity (MW)": "240",
+            "Commissioned": "1973",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Toronui",
+            "Territorial authority": "Hastings",
+            "Scheme": "Esk",
+            "Coordinates": "",
+            "Capacity (MW)": "1.4",
+            "Commissioned": "2013",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Tuai",
+            "Territorial authority": "Wairoa",
+            "Scheme": "Waikaremoana",
+            "Coordinates": "38°48′25″S177°09′03″E﻿ / ﻿38.806819°S 177.150844°E﻿ /-38.806819; 177.150844﻿ (Tuai hydroelectric power station)",
+            "Capacity (MW)": "60",
+            "Commissioned": "1929",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Wahapo/Ōkārito Forks",
+            "Territorial authority": "Westland",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "3.1",
+            "Commissioned": "1960",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Waihi Hydro",
+            "Territorial authority": "Waihi",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "5.0",
+            "Commissioned": "1986",
+            "Operator": "Eastland Generation"
+        },
+        {
+            "Name": "Waihopai",
+            "Territorial authority": "Marlborough",
+            "Scheme": "",
+            "Coordinates": "39°09′12″S175°50′12″E﻿ / ﻿39.153316°S 175.836802°E﻿ /-39.153316; 175.836802﻿ (Rangipo hydroelectric power station)",
+            "Capacity (MW)": "2.5",
+            "Commissioned": "1927",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Waipapa",
+            "Territorial authority": "South Waikato",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°17′32″S175°41′01″E﻿ / ﻿38.29216°S 175.683568°E﻿ /-38.29216; 175.683568﻿ (Waipapa hydroelectric power station)",
+            "Capacity (MW)": "51",
+            "Commissioned": "1961",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Waipori1A",
+            "Territorial authority": "Clutha",
+            "Scheme": "Waipori",
+            "Coordinates": "",
+            "Capacity (MW)": "10",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Waipori 2A",
+            "Territorial authority": "Clutha",
+            "Scheme": "Waipori",
+            "Coordinates": "",
+            "Capacity (MW)": "58",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Waipori 3",
+            "Territorial authority": "Clutha",
+            "Scheme": "Waipori",
+            "Coordinates": "",
+            "Capacity (MW)": "7.6",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Waipori 4",
+            "Territorial authority": "Clutha",
+            "Scheme": "Waipori",
+            "Coordinates": "",
+            "Capacity (MW)": "8",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Wairere",
+            "Territorial authority": "Waikato",
+            "Scheme": "",
+            "Coordinates": "38°31′54″S175°00′30″E﻿ / ﻿38.531654°S 175.008291°E﻿ /-38.531654; 175.008291﻿ (Wairere hydroelectric power station)",
+            "Capacity (MW)": "4.6",
+            "Commissioned": "1925",
+            "Operator": "King Country Energy"
+        },
+        {
+            "Name": "Wairua",
+            "Territorial authority": "Whangarei",
+            "Scheme": "",
+            "Coordinates": "35°45′27″S174°04′03″E﻿ / ﻿35.75753°S 174.067619°E﻿ /-35.75753; 174.067619﻿ (Wairua Falls hydroelectric power station)",
+            "Capacity (MW)": "5.0",
+            "Commissioned": "1916",
+            "Operator": "Northpower"
+        },
+        {
+            "Name": "Waitaki[6]",
+            "Territorial authority": "Waitaki",
+            "Scheme": "Lower Waitaki",
+            "Coordinates": "44°41′23″S170°25′34″E﻿ / ﻿44.68983°S 170.426173°E﻿ /-44.68983; 170.426173﻿ (Waitaki hydroelectric power station)",
+            "Capacity (MW)": "90",
+            "Commissioned": "1935",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Whakamaru",
+            "Territorial authority": "South Waikato / Taupō",
+            "Scheme": "Waikato River",
+            "Coordinates": "38°25.178′S175°48.493′E﻿ / ﻿38.419633°S 175.808217°E﻿ /-38.419633; 175.808217﻿ (Whakamaru hydroelectric power station)",
+            "Capacity (MW)": "124",
+            "Commissioned": "1956",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Brooklyn (hydro)",
+            "Territorial authority": "near Motueka, Tasman",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.2",
+            "Commissioned": "1934",
+            "Operator": "Brooklyn Electricity Ltd"
+        },
+        {
+            "Name": "Drysdale",
+            "Territorial authority": "near Marton, Manawatu-Wanganui",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "",
+            "Operator": "Drysdale Hydro Company"
+        },
+        {
+            "Name": "Feredays Island",
+            "Territorial authority": "Canterbury",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.3",
+            "Commissioned": "2005",
+            "Operator": "Kea Energy"
+        },
+        {
+            "Name": "Fox",
+            "Territorial authority": "West Coast",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.2",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Mangapehi",
+            "Territorial authority": "Waikato",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "1.6",
+            "Commissioned": "2008",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Mangatangi",
+            "Territorial authority": "Franklin, Auckland",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.6",
+            "Commissioned": "",
+            "Operator": "Watercare Services"
+        },
+        {
+            "Name": "Mangatawhiri",
+            "Territorial authority": "Franklin, Auckland",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.2",
+            "Commissioned": "",
+            "Operator": "Counties Power"
+        },
+        {
+            "Name": "Marokopa",
+            "Territorial authority": "Waitomo area, Waikato",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "2.0",
+            "Commissioned": "",
+            "Operator": "Clearwater Hydro"
+        },
+        {
+            "Name": "Mataura",
+            "Territorial authority": "near Gore, Southland",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.9",
+            "Commissioned": "",
+            "Operator": "Niblick Trust"
+        },
+        {
+            "Name": "Matawai",
+            "Territorial authority": "Gisborne",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "2.0",
+            "Commissioned": "2009",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Mokauiti",
+            "Territorial authority": "Central North Island",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "1.9",
+            "Commissioned": "1925, 1938, 1963",
+            "Operator": "King Country Energy"
+        },
+        {
+            "Name": "Ngahere",
+            "Territorial authority": "West Coast",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "",
+            "Operator": "Birchfield Minerals"
+        },
+        {
+            "Name": "Normanby",
+            "Territorial authority": "Normanby, Taranaki",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "1.0",
+            "Commissioned": "1903, 2015",
+            "Operator": "Greenfern Industries"
+        },
+        {
+            "Name": "Onekaka",
+            "Territorial authority": "Tasman District",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "1.0",
+            "Commissioned": "",
+            "Operator": "Onekaka Energy"
+        },
+        {
+            "Name": "Opunake",
+            "Territorial authority": "Opunake, Taranaki",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.3",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Raetihi",
+            "Territorial authority": "Raetihi, Manawatu-Wanganui",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.3",
+            "Commissioned": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Rochfort",
+            "Territorial authority": "Westport, West Coast",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "4.2",
+            "Commissioned": "2013",
+            "Operator": "Kawatiri Energy"
+        },
+        {
+            "Name": "Talla Burn",
+            "Territorial authority": "Central Otago",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "2.6",
+            "Commissioned": "2010",
+            "Operator": "Talla Burn Generation"
+        },
+        {
+            "Name": "TeviotBridge",
+            "Territorial authority": "Roxburgh, Otago",
+            "Scheme": "Teviot Scheme",
+            "Coordinates": "",
+            "Capacity (MW)": "1.1",
+            "Commissioned": "1972",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Turitea (hydro)",
+            "Territorial authority": "near Palmerston North",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "",
+            "Operator": "Palmerston North City Council"
+        },
+        {
+            "Name": "Waihi Station",
+            "Territorial authority": "near Wairoa, Hawke's Bay",
+            "Scheme": "",
+            "Coordinates": "",
+            "Capacity (MW)": "4.7",
+            "Commissioned": "1913",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Wheao",
+            "Territorial authority": "Whakatane",
+            "Scheme": "Wheao and Flaxy",
+            "Coordinates": "38°38′00″S176°34′41″E﻿ / ﻿38.633332°S 176.578077°E﻿ /-38.633332; 176.578077﻿ (Wheao hydroelectric power station)",
+            "Capacity (MW)": "24",
+            "Commissioned": "1982",
+            "Operator": "Manawa Energy"
+        }
+    ],
+    "Wind": [
+        {
+            "Name": "Awhitu",
+            "Territorial authority": "Waikato",
+            "Coordinates": "36°16′S174°40′E﻿ / ﻿36.267°S 174.667°E﻿ /-36.267; 174.667",
+            "Number of turbines": "1",
+            "Capacity (MW)": "1",
+            "Commissioned": "2020",
+            "Closed": "",
+            "Operator": "Private developer"
+        },
+        {
+            "Name": "Brooklyn Wind Turbine (original)",
+            "Territorial authority": "Wellington",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.23",
+            "Commissioned": "1993",
+            "Closed": "2015",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Brooklyn Wind Turbine (new)",
+            "Territorial authority": "Wellington",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.9",
+            "Commissioned": "2016",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Chatham Islands Wind Farm",
+            "Territorial authority": "Chatham Islands",
+            "Coordinates": "44°2′13″S176°23′0″W﻿ / ﻿44.03694°S 176.38333°W﻿ /-44.03694; -176.38333﻿ (Chatham Islands wind farm)",
+            "Number of turbines": "2",
+            "Capacity (MW)": "0.46",
+            "Commissioned": "2010",
+            "Closed": "",
+            "Operator": "CBD Energy / Chatham Islands Enterprise Trust"
+        },
+        {
+            "Name": "Flat Hill",
+            "Territorial authority": "near Bluff, Southland",
+            "Coordinates": "46°35′S168°17′E﻿ / ﻿46.583°S 168.283°E﻿ /-46.583; 168.283﻿ (Flat Hill Wind Farm)",
+            "Number of turbines": "8",
+            "Capacity (MW)": "6.8",
+            "Commissioned": "2015[13]",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Gebbies Pass",
+            "Territorial authority": "Christchurch",
+            "Coordinates": "43°41′54″S172°38′27″E﻿ / ﻿43.69833°S 172.64083°E﻿ /-43.69833; 172.64083﻿ (Gebbies Pass wind farm)",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.5",
+            "Commissioned": "2003",
+            "Closed": "",
+            "Operator": "Windflow Technology"
+        },
+        {
+            "Name": "Harapaki Wind Farm",
+            "Territorial authority": "Hawkes Bay",
+            "Coordinates": "39°11′2″S176°41′35″E﻿ / ﻿39.18389°S 176.69306°E﻿ /-39.18389; 176.69306",
+            "Number of turbines": "41",
+            "Capacity (MW)": "176",
+            "Commissioned": "2024",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Hau Nui",
+            "Territorial authority": "South Wairarapa",
+            "Coordinates": "41°21′42″S175°29′2″E﻿ / ﻿41.36167°S 175.48389°E﻿ /-41.36167; 175.48389﻿ (Hau Nui wind farm)",
+            "Number of turbines": "15",
+            "Capacity (MW)": "8.7",
+            "Commissioned": "1996, 2004",
+            "Closed": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Horseshoe Bend",
+            "Territorial authority": "Central Otago",
+            "Coordinates": "",
+            "Number of turbines": "3",
+            "Capacity (MW)": "2.3",
+            "Commissioned": "2009",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Kaiwera Downs- Stage 1",
+            "Territorial authority": "south-east of Gore, Southland",
+            "Coordinates": "46°14′29″S169°3′21″E﻿ / ﻿46.24139°S 169.05583°E﻿ /-46.24139; 169.05583",
+            "Number of turbines": "10",
+            "Capacity (MW)": "43",
+            "Commissioned": "2023",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Lulworth[14]",
+            "Territorial authority": "Marlborough",
+            "Coordinates": "",
+            "Number of turbines": "4",
+            "Capacity (MW)": "1.0",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Energy Marlborough"
+        },
+        {
+            "Name": "Mahinerangi",
+            "Territorial authority": "Dunedin",
+            "Coordinates": "45°45′38″S169°54′18″E﻿ / ﻿45.76056°S 169.90500°E﻿ /-45.76056; 169.90500﻿ (Mahinerangi wind farm)",
+            "Number of turbines": "12",
+            "Capacity (MW)": "36",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Mill Creek",
+            "Territorial authority": "Wellington",
+            "Coordinates": "41°12′44″S174°44′20″E﻿ / ﻿41.21222°S 174.73889°E﻿ /-41.21222; 174.73889",
+            "Number of turbines": "26",
+            "Capacity (MW)": "60",
+            "Commissioned": "2014",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Mt Stuart[15]",
+            "Territorial authority": "Clutha",
+            "Coordinates": "46°04′20″S169°46′2″E﻿ / ﻿46.07222°S 169.76722°E﻿ /-46.07222; 169.76722﻿ (Mount Stuart wind farm)",
+            "Number of turbines": "9",
+            "Capacity (MW)": "7.7",
+            "Commissioned": "December 2011",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Southbridge",
+            "Territorial authority": "Selwyn",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "2005",
+            "Closed": "",
+            "Operator": "Energy 3"
+        },
+        {
+            "Name": "Tararua",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°20′46″S175°46′48″E﻿ / ﻿40.34611°S 175.78000°E﻿ /-40.34611; 175.78000﻿ (Tararua wind farm)",
+            "Number of turbines": "134",
+            "Capacity (MW)": "161",
+            "Commissioned": "1999, 2004, 2007",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Te Āpiti",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°17′46″S175°48′30″E﻿ / ﻿40.29611°S 175.80833°E﻿ /-40.29611; 175.80833﻿ (Te Apiti wind farm)",
+            "Number of turbines": "55",
+            "Capacity (MW)": "91",
+            "Commissioned": "2004",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Te Rere Hau",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°23′18″S175°43′27″E﻿ / ﻿40.38833°S 175.72417°E﻿ /-40.38833; 175.72417﻿ (Te Rere Hau wind farm)",
+            "Number of turbines": "97",
+            "Capacity (MW)": "48.5",
+            "Commissioned": "2006, 2009, 2011",
+            "Closed": "",
+            "Operator": "Meridian"
+        },
+        {
+            "Name": "Te Uku",
+            "Territorial authority": "Waikato",
+            "Coordinates": "37°52′42″S174°57′47″E﻿ / ﻿37.87833°S 174.96306°E﻿ /-37.87833; 174.96306﻿ (Te Uku wind farm)",
+            "Number of turbines": "28",
+            "Capacity (MW)": "64.4",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Meridian Energy /WEL Networks"
+        },
+        {
+            "Name": "Turitea",
+            "Territorial authority": "Palmerston North /  Turitea",
+            "Coordinates": "40°40′28″S175°40′17″E﻿ / ﻿40.67444°S 175.67139°E﻿ /-40.67444; 175.67139﻿ (White Hill wind farm)",
+            "Number of turbines": "60",
+            "Capacity (MW)": "222",
+            "Commissioned": "2021 (stage 1)2023 (stage 2)",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Waipipi",
+            "Territorial authority": "South Taranaki",
+            "Coordinates": "39°47′S174°33′E﻿ / ﻿39.783°S 174.550°E﻿ /-39.783; 174.550﻿ (Waipipi wind farm)",
+            "Number of turbines": "31",
+            "Capacity (MW)": "133",
+            "Commissioned": "2021",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Weld Cone",
+            "Territorial authority": "Marlborough",
+            "Coordinates": "",
+            "Number of turbines": "3",
+            "Capacity (MW)": "0.8",
+            "Commissioned": "2010",
+            "Closed": "",
+            "Operator": "Energy Marlborough"
+        },
+        {
+            "Name": "West Wind",
+            "Territorial authority": "Wellington",
+            "Coordinates": "41°16′35″S174°39′37″E﻿ / ﻿41.27639°S 174.66028°E﻿ /-41.27639; 174.66028﻿ (West Wind wind farm)",
+            "Number of turbines": "62",
+            "Capacity (MW)": "143",
+            "Commissioned": "2009",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "White Hill",
+            "Territorial authority": "Southland",
+            "Coordinates": "45°45′9″S168°16′18″E﻿ / ﻿45.75250°S 168.27167°E﻿ /-45.75250; 168.27167﻿ (White Hill wind farm)",
+            "Number of turbines": "29",
+            "Capacity (MW)": "58",
+            "Commissioned": "2007",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        }
+    ],
+    "bioenenergy": [
+        {
+            "Name": "Greenmount Landfill",
+            "Territorial authority": "Auckland (Howick)",
+            "Coordinates": "36°56′12″S174°53′45″E﻿ / ﻿36.936639265856506°S 174.89593720845826°E﻿ /-36.936639265856506; 174.89593720845826﻿ (GMLF)",
+            "Type": "Biogas",
+            "Capacity (MW)": "5.5",
+            "Commissioned": "1992",
+            "Operator": "Envirowaste /Mighty River Power[3]"
+        },
+        {
+            "Name": "Kinleith",
+            "Territorial authority": "South Waikato",
+            "Coordinates": "38°16′24″S175°52′50″E﻿ / ﻿38.27341570654019°S 175.8806812824263°E﻿ /-38.27341570654019; 175.8806812824263﻿ (KWWC)",
+            "Type": "Wood cogeneration",
+            "Capacity (MW)": "40",
+            "Commissioned": "1997",
+            "Operator": "Oji Fibre Solutions"
+        },
+        {
+            "Name": "Omarunui",
+            "Territorial authority": "Hastings",
+            "Coordinates": "39°32′48″S176°46′57″E﻿ / ﻿39.54677966079598°S 176.78239085353036°E﻿ /-39.54677966079598; 176.78239085353036﻿ (OMLF)",
+            "Type": "Biogas",
+            "Capacity (MW)": "1",
+            "Commissioned": "2014",
+            "Operator": "LMS Energy / Hastings District Council"
+        },
+        {
+            "Name": "Pan Pac",
+            "Territorial authority": "Hastings",
+            "Coordinates": "39°22′41″S176°53′19″E﻿ / ﻿39.378046163812556°S 176.88851059244618°E﻿ /-39.378046163812556; 176.88851059244618﻿ (PPWC)",
+            "Type": "Wood cogeneration",
+            "Capacity (MW)": "12.8",
+            "Commissioned": "2005",
+            "Operator": "Pan Pac Forest Products"
+        },
+        {
+            "Name": "Rosedale",
+            "Territorial authority": "Auckland (Upper Harbour)",
+            "Coordinates": "36°44′50″S174°42′58″E﻿ / ﻿36.74735926993206°S 174.71609104727682°E﻿ /-36.74735926993206; 174.71609104727682﻿ (RDBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "2.8",
+            "Commissioned": "1992",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Silverstream Landfill",
+            "Territorial authority": "Lower Hutt",
+            "Coordinates": "41°09′37″S174°59′49″E﻿ / ﻿41.160240073039645°S 174.99703612574234°E﻿ /-41.160240073039645; 174.99703612574234﻿ (SSBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "2.7",
+            "Commissioned": "1994",
+            "Operator": "LMS Energy"
+        },
+        {
+            "Name": "Southern Landfill",
+            "Territorial authority": "Wellington",
+            "Coordinates": "41°19′42″S174°44′40″E﻿ / ﻿41.32830093719736°S 174.74456612933602°E﻿ /-41.32830093719736; 174.74456612933602﻿ (SLBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "1.1",
+            "Commissioned": "2022",
+            "Operator": "LMS Energy[4]"
+        },
+        {
+            "Name": "Tirohia",
+            "Territorial authority": "Hauraki",
+            "Coordinates": "37°26′11″S175°39′21″E﻿ / ﻿37.43627579943488°S 175.6558356879176°E﻿ /-37.43627579943488; 175.6558356879176﻿ (TBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "2.0",
+            "Commissioned": "2008",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Redvale Landfill and Energy Park",
+            "Territorial authority": "Auckland (Upper Harbour)",
+            "Coordinates": "36°39′51″S174°37′44″E﻿ / ﻿36.664294284470444°S 174.6287743668899°E﻿ /-36.664294284470444; 174.6287743668899﻿ (RVBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "12",
+            "Commissioned": "1993",
+            "Operator": "Waste Management"
+        },
+        {
+            "Name": "Waipa Mill (Red Stag Timber)",
+            "Territorial authority": "Rotorua",
+            "Coordinates": "38°10′57″S176°16′14″E﻿ / ﻿38.18263159035722°S 176.27067451117063°E﻿ /-38.18263159035722; 176.27067451117063﻿ (RSWC)",
+            "Type": "Wood cogeneration",
+            "Capacity (MW)": "10",
+            "Commissioned": "2018",
+            "Operator": "Red Stag Timber[5]"
+        },
+        {
+            "Name": "Kate Valley Landfill",
+            "Territorial authority": "Hurunui",
+            "Coordinates": "43°05′59″S172°50′11″E﻿ / ﻿43.09962307192245°S 172.83629031345686°E﻿ /-43.09962307192245; 172.83629031345686﻿ (KVBG)",
+            "Type": "Biogas",
+            "Capacity (MW)": "4.3",
+            "Commissioned": "2014",
+            "Operator": "Transwaste"
+        }
+    ],
+    "Geothermal": [
+        {
+            "Name": "Te Ahi O Maui",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "38°03′47″S176°42′10″E﻿ / ﻿38.06306°S 176.70278°E﻿ /-38.06306; 176.70278﻿ (TAOM)",
+            "Type": "Binary",
+            "Capacity (MW)": "24",
+            "Commissioned": "2018",
+            "Operator": "Eastland Generation"
+        },
+        {
+            "Name": "Geothermal Development Limited",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "38°03′38″S176°43′21″E﻿ / ﻿38.06056°S 176.72250°E﻿ /-38.06056; 176.72250﻿ (GDL)",
+            "Type": "Binary",
+            "Capacity (MW)": "8",
+            "Commissioned": "2008",
+            "Operator": "Eastland Generation"
+        },
+        {
+            "Name": "Kawerau TG1 & TG2",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "",
+            "Type": "Binary",
+            "Capacity (MW)": "6",
+            "Commissioned": "1989, 1993",
+            "Operator": "Nova Energy"
+        },
+        {
+            "Name": "Kawerau TOPP1",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "38°03′55″S176°43′16″E﻿ / ﻿38.065312°S 176.721028°E﻿ /-38.065312; 176.721028",
+            "Type": "Binary",
+            "Capacity (MW)": "26",
+            "Commissioned": "2012",
+            "Operator": "Eastland Generation"
+        },
+        {
+            "Name": "Kawerau TOPP2",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "38°04'29\"S 176°41'59\"E",
+            "Type": "Binary",
+            "Capacity (MW)": "49",
+            "Commissioned": "2025",
+            "Operator": "Eastland Generation"
+        },
+        {
+            "Name": "Kawerau",
+            "Territorial authority": "Kawerau",
+            "Coordinates": "38°03′47″S176°43′38″E﻿ / ﻿38.06306°S 176.72722°E﻿ /-38.06306; 176.72722﻿ (Kawerau (Mercury) geothermal power station)",
+            "Type": "Flash steam",
+            "Capacity (MW)": "105",
+            "Commissioned": "2008",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Mokai",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°31′52″S175°55′39″E﻿ / ﻿38.53123°S 175.92742°E﻿ /-38.53123; 175.92742﻿ (Mokai geothermal power station)",
+            "Type": "Binary",
+            "Capacity (MW)": "112",
+            "Commissioned": "2000",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Nga Awa Purua",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°36′50″S176°11′02″E﻿ / ﻿38.613989°S 176.183833°E﻿ /-38.613989; 176.183833﻿ (Nga Awa Purua geothermal power station)",
+            "Type": "Flash steam",
+            "Capacity (MW)": "149",
+            "Commissioned": "2010",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Ngatamariki",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°32′50″S176°11′42″E﻿ / ﻿38.54709°S 176.19497°E﻿ /-38.54709; 176.19497",
+            "Type": "Binary",
+            "Capacity (MW)": "132",
+            "Commissioned": "2013  (Unit 5 added 2026)",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Ngāwhā",
+            "Territorial authority": "Far North",
+            "Coordinates": "35°25′03″S173°51′07″E﻿ / ﻿35.41750°S 173.85194°E﻿ /-35.41750; 173.85194﻿ (Ngawha geothermal power station)",
+            "Type": "Binary",
+            "Capacity (MW)": "57",
+            "Commissioned": "OEC 1&2 1998OEC 3 \nOEC 4 Aug 2020",
+            "Operator": "Top Energy"
+        },
+        {
+            "Name": "Ohaaki",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°31′37″S176°17′31″E﻿ / ﻿38.52694°S 176.29194°E﻿ /-38.52694; 176.29194﻿ (Ohaaki geothermal power station)",
+            "Type": "Flash steam",
+            "Capacity (MW)": "44",
+            "Commissioned": "1989",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Poihipi",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°37′49″S176°2′30″E﻿ / ﻿38.63028°S 176.04167°E﻿ /-38.63028; 176.04167﻿ (Poihipi geothermal power station)",
+            "Type": "Flash steam",
+            "Capacity (MW)": "40",
+            "Commissioned": "1997",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Rotokawa",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°36′45″S176°11′37″E﻿ / ﻿38.612402°S 176.193666°E﻿ /-38.612402; 176.193666﻿ (Rotokawa geothermal power station)",
+            "Type": "Binary",
+            "Capacity (MW)": "28",
+            "Commissioned": "1997",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Tauhara",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°40′00″S176°09′28″E﻿ / ﻿38.66676°S 176.15780°E﻿ /-38.66676; 176.15780",
+            "Type": "Flash steam",
+            "Capacity (MW)": "174",
+            "Commissioned": "2024",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Te Huka",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°40′1″S176°7′5″E﻿ / ﻿38.66694°S 176.11806°E﻿ /-38.66694; 176.11806﻿ (Te Huka geothermal power station)",
+            "Type": "Binary",
+            "Capacity (MW)": "79",
+            "Commissioned": "2010(Unit 3) 2024",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Te Mihi",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°37′09″S176°02′51″E﻿ / ﻿38.619113°S 176.047476°E﻿ /-38.619113; 176.047476",
+            "Type": "Flash steam",
+            "Capacity (MW)": "166",
+            "Commissioned": "2014",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "WairakeiA & B",
+            "Territorial authority": "Taupō",
+            "Coordinates": "38°37′37″S176°06′19″E﻿ / ﻿38.62694°S 176.10528°E﻿ /-38.62694; 176.10528﻿ (Wairakei geothermal power station)",
+            "Type": "Flash steam & binary",
+            "Capacity (MW)": "132",
+            "Commissioned": "1958 (Binary added 2005)",
+            "Operator": "Contact Energy"
+        }
+    ],
+    "Fossil-fuel-thermal": [
+        {
+            "Name": "Auckland Hospital",
+            "Coordinates": "",
+            "Territorial authority": "Auckland (Waitemata)",
+            "Type": "Gas/diesel cogeneration",
+            "Capacity (MW)": "3.6",
+            "Commissioned": "2005",
+            "Closed/ decommissioning date": "",
+            "Operator": "AucklandDHB/ Pioneer Energy"
+        },
+        {
+            "Name": "Bream Bay",
+            "Coordinates": "",
+            "Territorial authority": "Whangarei",
+            "Type": "Diesel recip engine",
+            "Capacity (MW)": "9",
+            "Commissioned": "2011",
+            "Closed/ decommissioning date": "",
+            "Operator": "Manawa Energy"
+        },
+        {
+            "Name": "Edgecumbe",
+            "Coordinates": "",
+            "Territorial authority": "Whakatane",
+            "Type": "Gas cogeneration",
+            "Capacity (MW)": "10",
+            "Commissioned": "1996",
+            "Closed/ decommissioning date": "",
+            "Operator": "Nova Energy"
+        },
+        {
+            "Name": "Evans Bay",
+            "Coordinates": "",
+            "Territorial authority": "Wellington",
+            "Type": "Coal steam turbine",
+            "Capacity (MW)": "23",
+            "Commissioned": "1924",
+            "Closed/ decommissioning date": "1968",
+            "Operator": "Wellington MED"
+        },
+        {
+            "Name": "Glenbrook",
+            "Coordinates": "",
+            "Territorial authority": "Auckland (Franklin)",
+            "Type": "Coal/gas waste heat",
+            "Capacity (MW)": "112",
+            "Commissioned": "1997",
+            "Closed/ decommissioning date": "",
+            "Operator": "Alinta"
+        },
+        {
+            "Name": "Junction Road",
+            "Coordinates": "",
+            "Territorial authority": "Taranaki",
+            "Type": "Gas",
+            "Capacity (MW)": "100",
+            "Commissioned": "2020[10]",
+            "Closed/ decommissioning date": "",
+            "Operator": "Nova Energy"
+        },
+        {
+            "Name": "Huntly 1,2, & 4",
+            "Coordinates": "37°32′40″S175°09′01″E﻿ / ﻿37.544475°S 175.150412°E﻿ /-37.544475; 175.150412﻿ (Huntly 1-4 coal/gas-fired power station)",
+            "Territorial authority": "Waikato",
+            "Type": "Coal/gas steam turbine",
+            "Capacity (MW)": "750",
+            "Commissioned": "1983",
+            "Closed/ decommissioning date": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Huntly 3",
+            "Coordinates": "37°32′40″S175°09′01″E﻿ / ﻿37.544475°S 175.150412°E﻿ /-37.544475; 175.150412﻿ (Huntly 1-4 coal/gas-fired power station)",
+            "Territorial authority": "Waikato",
+            "Type": "Coal/gas steam turbine",
+            "Capacity (MW)": "250",
+            "Commissioned": "1983",
+            "Closed/ decommissioning date": "2012",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Huntly 5",
+            "Coordinates": "37°32′35″S175°08′57″E﻿ / ﻿37.543046°S 175.149103°E﻿ /-37.543046; 175.149103﻿ (Huntly 5 gas-fired power station)",
+            "Territorial authority": "Waikato",
+            "Type": "Gas combined-cycle",
+            "Capacity (MW)": "385",
+            "Commissioned": "2007",
+            "Closed/ decommissioning date": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Huntly 6",
+            "Coordinates": "37°32′38″S175°08′53″E﻿ / ﻿37.543982°S 175.14814°E﻿ /-37.543982; 175.14814﻿ (Huntly 6 gas-fired power station)",
+            "Territorial authority": "Waikato",
+            "Type": "Gas/diesel open-cycle",
+            "Capacity (MW)": "48",
+            "Commissioned": "2004",
+            "Closed/ decommissioning date": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Kapuni",
+            "Coordinates": "",
+            "Territorial authority": "South Taranaki",
+            "Type": "Gas combined-cycle cogeneration",
+            "Capacity (MW)": "25",
+            "Commissioned": "1998",
+            "Closed/ decommissioning date": "",
+            "Operator": "Vector/Bay of Plenty Energy"
+        },
+        {
+            "Name": "Kawerau (TPP)",
+            "Coordinates": "",
+            "Territorial authority": "Kawerau",
+            "Type": "Gas cogeneration",
+            "Capacity (MW)": "37",
+            "Commissioned": "1966",
+            "Closed/ decommissioning date": "",
+            "Operator": "Tasman Pulp and Paper"
+        },
+        {
+            "Name": "Kinleith",
+            "Coordinates": "",
+            "Territorial authority": "South Waikato",
+            "Type": "Wood/gas cogeneration",
+            "Capacity (MW)": "40",
+            "Commissioned": "1998",
+            "Closed/ decommissioning date": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Kings Wharf",
+            "Coordinates": "",
+            "Territorial authority": "Auckland (Waitemata)",
+            "Type": "Coal steam turbine",
+            "Capacity (MW)": "10.5",
+            "Commissioned": "1913",
+            "Closed/ decommissioning date": "1968",
+            "Operator": "Auckland EPB"
+        },
+        {
+            "Name": "Mangahewa",
+            "Coordinates": "",
+            "Territorial authority": "New Plymouth",
+            "Type": "Gas",
+            "Capacity (MW)": "9.0",
+            "Commissioned": "2008",
+            "Closed/ decommissioning date": "",
+            "Operator": "Nova Energy"
+        },
+        {
+            "Name": "Marsden A",
+            "Coordinates": "",
+            "Territorial authority": "Whangarei",
+            "Type": "Oil",
+            "Capacity (MW)": "240",
+            "Commissioned": "1967",
+            "Closed/ decommissioning date": "1997",
+            "Operator": "ECNZ"
+        },
+        {
+            "Name": "Marsden B",
+            "Coordinates": "",
+            "Territorial authority": "Whangarei",
+            "Type": "Oil",
+            "Capacity (MW)": "250",
+            "Commissioned": "never commissioned",
+            "Closed/ decommissioning date": "",
+            "Operator": "ECNZ"
+        },
+        {
+            "Name": "McKee(recip)",
+            "Coordinates": "",
+            "Territorial authority": "New Plymouth",
+            "Type": "Gas reciprocating",
+            "Capacity (MW)": "2.0",
+            "Commissioned": "2008",
+            "Closed/ decommissioning date": "",
+            "Operator": "Nova Energy"
+        },
+        {
+            "Name": "McKee(turbine)",
+            "Coordinates": "",
+            "Territorial authority": "New Plymouth",
+            "Type": "Gas open-cycle",
+            "Capacity (MW)": "100",
+            "Commissioned": "2013",
+            "Closed/ decommissioning date": "",
+            "Operator": "Todd Generation"
+        },
+        {
+            "Name": "Meremere",
+            "Coordinates": "",
+            "Territorial authority": "Waikato",
+            "Type": "Coal steam turbine",
+            "Capacity (MW)": "210",
+            "Commissioned": "1958",
+            "Closed/ decommissioning date": "1991",
+            "Operator": "ECNZ"
+        },
+        {
+            "Name": "New Plymouth",
+            "Coordinates": "",
+            "Territorial authority": "New Plymouth",
+            "Type": "Gas/oil steam turbine",
+            "Capacity (MW)": "600",
+            "Commissioned": "1974",
+            "Closed/ decommissioning date": "2008",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Otahuhu A",
+            "Coordinates": "",
+            "Territorial authority": "Auckland (Otara-Papatoetoe)",
+            "Type": "Gas open cycle",
+            "Capacity (MW)": "",
+            "Commissioned": "1968",
+            "Closed/ decommissioning date": "late 1990s",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Otahuhu B",
+            "Coordinates": "",
+            "Territorial authority": "Auckland (Otara-Papatoetoe)",
+            "Type": "Gas combined cycle",
+            "Capacity (MW)": "404",
+            "Commissioned": "2000",
+            "Closed/ decommissioning date": "2015",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Palmerston North[11]",
+            "Coordinates": "",
+            "Territorial authority": "Palmerston North",
+            "Type": "Town gas/dieselreciprocating",
+            "Capacity (MW)": "2",
+            "Commissioned": "1924",
+            "Closed/ decommissioning date": "1992",
+            "Operator": "Palmerston North MED"
+        },
+        {
+            "Name": "QE2 Park",
+            "Coordinates": "",
+            "Territorial authority": "Christchurch",
+            "Type": "Diesel recip engine",
+            "Capacity (MW)": "4",
+            "Commissioned": "2011-2",
+            "Closed/ decommissioning date": "",
+            "Operator": "Orion New Zealand"
+        },
+        {
+            "Name": "Southdown",
+            "Coordinates": "36°55′39″S174°49′38″E﻿ / ﻿36.927563°S 174.827328°E﻿ /-36.927563; 174.827328﻿ (Southdown cogeneration power station)",
+            "Territorial authority": "Auckland (Maungakiekie-Tamaki)",
+            "Type": "Gas combined-cycle cogeneration",
+            "Capacity (MW)": "170",
+            "Commissioned": "1997",
+            "Closed/ decommissioning date": "2015",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Springlands[12]",
+            "Coordinates": "",
+            "Territorial authority": "Marlborough",
+            "Type": "Dieselreciprocating",
+            "Capacity (MW)": "1.5",
+            "Commissioned": "1930",
+            "Closed/ decommissioning date": "2003",
+            "Operator": "Marlborough Lines"
+        },
+        {
+            "Name": "Stratford CC",
+            "Coordinates": "39°19′56″S174°19′8″E﻿ / ﻿39.33222°S 174.31889°E﻿ /-39.33222; 174.31889﻿ (Stratford gas-fired power station)",
+            "Territorial authority": "Stratford",
+            "Type": "Gas combined-cycle",
+            "Capacity (MW)": "377",
+            "Commissioned": "1998",
+            "Closed/ decommissioning date": "",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Stratford peaker",
+            "Coordinates": "39°19′56″S174°19′8″E﻿ / ﻿39.33222°S 174.31889°E﻿ /-39.33222; 174.31889﻿ (Stratford gas-fired power station)",
+            "Territorial authority": "Stratford",
+            "Type": "Gas open-cycle",
+            "Capacity (MW)": "200",
+            "Commissioned": "2010",
+            "Closed/ decommissioning date": "",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Te Awamutu",
+            "Coordinates": "",
+            "Territorial authority": "Waipa",
+            "Type": "Gas turbine",
+            "Capacity (MW)": "54",
+            "Commissioned": "1995",
+            "Closed/ decommissioning date": "2007",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Te Rapa",
+            "Coordinates": "37°42′59″S175°13′0″E﻿ / ﻿37.71639°S 175.21667°E﻿ /-37.71639; 175.21667﻿ (Te Rapa cogeneration power station)",
+            "Territorial authority": "Hamilton",
+            "Type": "Gas cogeneration",
+            "Capacity (MW)": "44",
+            "Commissioned": "1999",
+            "Closed/ decommissioning date": "2023",
+            "Operator": "Contact Energy"
+        },
+        {
+            "Name": "Wellington Hospital",
+            "Coordinates": "",
+            "Territorial authority": "Wellington",
+            "Type": "Gas/oil cogeneration",
+            "Capacity (MW)": "8",
+            "Commissioned": "1981",
+            "Closed/ decommissioning date": "",
+            "Operator": "Capital & Coast DHB / Vector / Meridian Energy"
+        },
+        {
+            "Name": "Whareroa",
+            "Coordinates": "",
+            "Territorial authority": "South Taranaki",
+            "Type": "Gas combined-cycle cogeneration",
+            "Capacity (MW)": "68",
+            "Commissioned": "1996",
+            "Closed/ decommissioning date": "",
+            "Operator": "Fonterra/Todd Energy"
+        },
+        {
+            "Name": "Whirinaki",
+            "Coordinates": "39°22′59″S176°53′16″E﻿ / ﻿39.38306°S 176.88778°E﻿ /-39.38306; 176.88778﻿ (Whirinaki diesel-fired power station)",
+            "Territorial authority": "Hastings",
+            "Type": "Diesel open-cycle",
+            "Capacity (MW)": "155",
+            "Commissioned": "2004",
+            "Closed/ decommissioning date": "",
+            "Operator": "Contact Energy"
+        }
+    ],
+    "Solar": [
+        {
+            "Name": "Awhitu",
+            "Territorial authority": "Waikato",
+            "Coordinates": "36°16′S174°40′E﻿ / ﻿36.267°S 174.667°E﻿ /-36.267; 174.667",
+            "Number of turbines": "1",
+            "Capacity (MW)": "1",
+            "Commissioned": "2020",
+            "Closed": "",
+            "Operator": "Private developer"
+        },
+        {
+            "Name": "Brooklyn Wind Turbine (original)",
+            "Territorial authority": "Wellington",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.23",
+            "Commissioned": "1993",
+            "Closed": "2015",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Brooklyn Wind Turbine (new)",
+            "Territorial authority": "Wellington",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.9",
+            "Commissioned": "2016",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Chatham Islands Wind Farm",
+            "Territorial authority": "Chatham Islands",
+            "Coordinates": "44°2′13″S176°23′0″W﻿ / ﻿44.03694°S 176.38333°W﻿ /-44.03694; -176.38333﻿ (Chatham Islands wind farm)",
+            "Number of turbines": "2",
+            "Capacity (MW)": "0.46",
+            "Commissioned": "2010",
+            "Closed": "",
+            "Operator": "CBD Energy / Chatham Islands Enterprise Trust"
+        },
+        {
+            "Name": "Flat Hill",
+            "Territorial authority": "near Bluff, Southland",
+            "Coordinates": "46°35′S168°17′E﻿ / ﻿46.583°S 168.283°E﻿ /-46.583; 168.283﻿ (Flat Hill Wind Farm)",
+            "Number of turbines": "8",
+            "Capacity (MW)": "6.8",
+            "Commissioned": "2015[13]",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Gebbies Pass",
+            "Territorial authority": "Christchurch",
+            "Coordinates": "43°41′54″S172°38′27″E﻿ / ﻿43.69833°S 172.64083°E﻿ /-43.69833; 172.64083﻿ (Gebbies Pass wind farm)",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.5",
+            "Commissioned": "2003",
+            "Closed": "",
+            "Operator": "Windflow Technology"
+        },
+        {
+            "Name": "Harapaki Wind Farm",
+            "Territorial authority": "Hawkes Bay",
+            "Coordinates": "39°11′2″S176°41′35″E﻿ / ﻿39.18389°S 176.69306°E﻿ /-39.18389; 176.69306",
+            "Number of turbines": "41",
+            "Capacity (MW)": "176",
+            "Commissioned": "2024",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Hau Nui",
+            "Territorial authority": "South Wairarapa",
+            "Coordinates": "41°21′42″S175°29′2″E﻿ / ﻿41.36167°S 175.48389°E﻿ /-41.36167; 175.48389﻿ (Hau Nui wind farm)",
+            "Number of turbines": "15",
+            "Capacity (MW)": "8.7",
+            "Commissioned": "1996, 2004",
+            "Closed": "",
+            "Operator": "Genesis Energy"
+        },
+        {
+            "Name": "Horseshoe Bend",
+            "Territorial authority": "Central Otago",
+            "Coordinates": "",
+            "Number of turbines": "3",
+            "Capacity (MW)": "2.3",
+            "Commissioned": "2009",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Kaiwera Downs- Stage 1",
+            "Territorial authority": "south-east of Gore, Southland",
+            "Coordinates": "46°14′29″S169°3′21″E﻿ / ﻿46.24139°S 169.05583°E﻿ /-46.24139; 169.05583",
+            "Number of turbines": "10",
+            "Capacity (MW)": "43",
+            "Commissioned": "2023",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Lulworth[14]",
+            "Territorial authority": "Marlborough",
+            "Coordinates": "",
+            "Number of turbines": "4",
+            "Capacity (MW)": "1.0",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Energy Marlborough"
+        },
+        {
+            "Name": "Mahinerangi",
+            "Territorial authority": "Dunedin",
+            "Coordinates": "45°45′38″S169°54′18″E﻿ / ﻿45.76056°S 169.90500°E﻿ /-45.76056; 169.90500﻿ (Mahinerangi wind farm)",
+            "Number of turbines": "12",
+            "Capacity (MW)": "36",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Mill Creek",
+            "Territorial authority": "Wellington",
+            "Coordinates": "41°12′44″S174°44′20″E﻿ / ﻿41.21222°S 174.73889°E﻿ /-41.21222; 174.73889",
+            "Number of turbines": "26",
+            "Capacity (MW)": "60",
+            "Commissioned": "2014",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Mt Stuart[15]",
+            "Territorial authority": "Clutha",
+            "Coordinates": "46°04′20″S169°46′2″E﻿ / ﻿46.07222°S 169.76722°E﻿ /-46.07222; 169.76722﻿ (Mount Stuart wind farm)",
+            "Number of turbines": "9",
+            "Capacity (MW)": "7.7",
+            "Commissioned": "December 2011",
+            "Closed": "",
+            "Operator": "Pioneer Energy"
+        },
+        {
+            "Name": "Southbridge",
+            "Territorial authority": "Selwyn",
+            "Coordinates": "",
+            "Number of turbines": "1",
+            "Capacity (MW)": "0.1",
+            "Commissioned": "2005",
+            "Closed": "",
+            "Operator": "Energy 3"
+        },
+        {
+            "Name": "Tararua",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°20′46″S175°46′48″E﻿ / ﻿40.34611°S 175.78000°E﻿ /-40.34611; 175.78000﻿ (Tararua wind farm)",
+            "Number of turbines": "134",
+            "Capacity (MW)": "161",
+            "Commissioned": "1999, 2004, 2007",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Te Āpiti",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°17′46″S175°48′30″E﻿ / ﻿40.29611°S 175.80833°E﻿ /-40.29611; 175.80833﻿ (Te Apiti wind farm)",
+            "Number of turbines": "55",
+            "Capacity (MW)": "91",
+            "Commissioned": "2004",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Te Rere Hau",
+            "Territorial authority": "Palmerston North / Tararua",
+            "Coordinates": "40°23′18″S175°43′27″E﻿ / ﻿40.38833°S 175.72417°E﻿ /-40.38833; 175.72417﻿ (Te Rere Hau wind farm)",
+            "Number of turbines": "97",
+            "Capacity (MW)": "48.5",
+            "Commissioned": "2006, 2009, 2011",
+            "Closed": "",
+            "Operator": "Meridian"
+        },
+        {
+            "Name": "Te Uku",
+            "Territorial authority": "Waikato",
+            "Coordinates": "37°52′42″S174°57′47″E﻿ / ﻿37.87833°S 174.96306°E﻿ /-37.87833; 174.96306﻿ (Te Uku wind farm)",
+            "Number of turbines": "28",
+            "Capacity (MW)": "64.4",
+            "Commissioned": "2011",
+            "Closed": "",
+            "Operator": "Meridian Energy /WEL Networks"
+        },
+        {
+            "Name": "Turitea",
+            "Territorial authority": "Palmerston North /  Turitea",
+            "Coordinates": "40°40′28″S175°40′17″E﻿ / ﻿40.67444°S 175.67139°E﻿ /-40.67444; 175.67139﻿ (White Hill wind farm)",
+            "Number of turbines": "60",
+            "Capacity (MW)": "222",
+            "Commissioned": "2021 (stage 1)2023 (stage 2)",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Waipipi",
+            "Territorial authority": "South Taranaki",
+            "Coordinates": "39°47′S174°33′E﻿ / ﻿39.783°S 174.550°E﻿ /-39.783; 174.550﻿ (Waipipi wind farm)",
+            "Number of turbines": "31",
+            "Capacity (MW)": "133",
+            "Commissioned": "2021",
+            "Closed": "",
+            "Operator": "Mercury Energy"
+        },
+        {
+            "Name": "Weld Cone",
+            "Territorial authority": "Marlborough",
+            "Coordinates": "",
+            "Number of turbines": "3",
+            "Capacity (MW)": "0.8",
+            "Commissioned": "2010",
+            "Closed": "",
+            "Operator": "Energy Marlborough"
+        },
+        {
+            "Name": "West Wind",
+            "Territorial authority": "Wellington",
+            "Coordinates": "41°16′35″S174°39′37″E﻿ / ﻿41.27639°S 174.66028°E﻿ /-41.27639; 174.66028﻿ (West Wind wind farm)",
+            "Number of turbines": "62",
+            "Capacity (MW)": "143",
+            "Commissioned": "2009",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "White Hill",
+            "Territorial authority": "Southland",
+            "Coordinates": "45°45′9″S168°16′18″E﻿ / ﻿45.75250°S 168.27167°E﻿ /-45.75250; 168.27167﻿ (White Hill wind farm)",
+            "Number of turbines": "29",
+            "Capacity (MW)": "58",
+            "Commissioned": "2007",
+            "Closed": "",
+            "Operator": "Meridian Energy"
+        }
+    ],
+    "grid-battery-storage": [
+        {
+            "Name": "Glen Innes",
+            "Territorial authority": "Auckland (Manugakiekie-Tamaki)",
+            "Coordinates": "",
+            "Type": "Tesla Powerpack",
+            "Capacity (MW/MWh)": "1.0/2.3",
+            "Commissioned": "2016",
+            "Operator": "Vector"
+        },
+        {
+            "Name": "Hobsonville Point",
+            "Territorial authority": "Auckland (Upper Harbour)",
+            "Coordinates": "",
+            "Type": "Tesla Powerpack",
+            "Capacity (MW/MWh)": "1.0/2.3",
+            "Commissioned": "2018",
+            "Operator": "Vector"
+        },
+        {
+            "Name": "Rotohiko",
+            "Territorial authority": "Waikato",
+            "Coordinates": "",
+            "Type": "Saft (company)",
+            "Capacity (MW/MWh)": "35/33",
+            "Commissioned": "2023",
+            "Operator": "WEL Networks"
+        },
+        {
+            "Name": "Ruakākā Energy Park",
+            "Territorial authority": "Northland",
+            "Coordinates": "",
+            "Type": "Saft (company)",
+            "Capacity (MW/MWh)": "100/200",
+            "Commissioned": "2025",
+            "Operator": "Meridian Energy"
+        },
+        {
+            "Name": "Snells Beach",
+            "Territorial authority": "Auckland (Rodney)",
+            "Coordinates": "",
+            "Type": "",
+            "Capacity (MW/MWh)": "2.75/6.7",
+            "Commissioned": "2018",
+            "Operator": "Vector"
+        },
+        {
+            "Name": "Warkworth South",
+            "Territorial authority": "Auckland (Rodney)",
+            "Coordinates": "",
+            "Type": "",
+            "Capacity (MW/MWh)": "2.0/4.8",
+            "Commissioned": "2018",
+            "Operator": "Vector"
+        },
+        {
+            "Name": "Whangamata (CBD standby power)",
+            "Territorial authority": "Thames-Coromandel",
+            "Coordinates": "",
+            "Type": "",
+            "Capacity (MW/MWh)": "2.0/2.0",
+            "Commissioned": "2020",
+            "Operator": "Powerco"
+        }
+    ],
+    "future": [
+        {
+            "Name": "Awhitu",
+            "Location": "near Waiuku, Auckland",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "15",
+            "Operator": "Private operator",
+            "Status": "2MW under construction",
+            "Notes": "[16][22]"
+        },
+        {
+            "Name": "Castle Hill",
+            "Location": "northeast ofMasterton",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "300",
+            "Operator": "Genesis Energy Limited",
+            "Status": "consented - seeking extension",
+            "Notes": "[16][23][24]"
+        },
+        {
+            "Name": "Clandeboye",
+            "Location": "South Cantebury",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "27",
+            "Operator": "Lodestone Energy",
+            "Status": "under construction - online Q4 2026",
+            "Notes": ""
+        },
+        {
+            "Name": "Edgecumbe Solar Farm",
+            "Location": "Edgecumbe",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "38",
+            "Operator": "Far North Solar Farms",
+            "Status": "consented",
+            "Notes": "[25]"
+        },
+        {
+            "Name": "Edgecumbe Solar Farm Genesis",
+            "Location": "Edgecumbe",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "114",
+            "Operator": "Genesis Energy Limited",
+            "Status": "under construction - online Q3 2027",
+            "Notes": "[26]"
+        },
+        {
+            "Name": "Foxton Solar Farm",
+            "Location": "Foxton",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "42",
+            "Operator": "Far North Solar Farms",
+            "Status": "consented",
+            "Notes": "[25]"
+        },
+        {
+            "Name": "Huriwaka (prev.Central Wind)(Moawhango)",
+            "Location": "between Taihape and Waiouru",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "230 (prev. 130)",
+            "Operator": "Manawa Energy",
+            "Status": "Previously Meridian Energy, consents lapsed, re-consenting underway with new developer Manawa Energy",
+            "Notes": "[16]"
+        },
+        {
+            "Name": "Te Mihi Stage 2",
+            "Location": "Taupō",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "101",
+            "Operator": "Contact Energy",
+            "Status": "partially replaces Wairakei A & B legacy power stations - under construction. online Q3 2027",
+            "Notes": "[27]"
+        },
+        {
+            "Name": "Te Mihi Stage 3",
+            "Location": "Taupō",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Contact Energy",
+            "Status": "Final replacement of Wairakei A & B legacy power stations. FID due FY28",
+            "Notes": ""
+        },
+        {
+            "Name": "Glenbrook Battery",
+            "Location": "Glenbrook",
+            "Type": "Battery",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Contact Energy",
+            "Status": "under construction - online Q1 2026",
+            "Notes": "[28]"
+        },
+        {
+            "Name": "Hauauru ma raki",
+            "Location": "Waikato coast",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "504",
+            "Operator": "Contact Energy",
+            "Status": "consents lapsed",
+            "Notes": "[16]"
+        },
+        {
+            "Name": "Hurunui",
+            "Location": "North Canterbury",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "76",
+            "Operator": "Meridian Energy",
+            "Status": "consents lapsed",
+            "Notes": "[16][29]"
+        },
+        {
+            "Name": "Huntly Battery",
+            "Location": "Huntly",
+            "Type": "Battery",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Genesis Energy Limited",
+            "Status": "online Q1 2027",
+            "Notes": ""
+        },
+        {
+            "Name": "Huntly Wind Farm",
+            "Location": "Huntly",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "200-300",
+            "Operator": "Mercury Energy",
+            "Status": "In design",
+            "Notes": ""
+        },
+        {
+            "Name": "Kaimai Wind Farm",
+            "Location": "northern Kaimai Range",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "168",
+            "Operator": "Ventus Energy",
+            "Status": "applied for consent",
+            "Notes": "[30]"
+        },
+        {
+            "Name": "Kaiwaikawe",
+            "Location": "Dargaville",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "74",
+            "Operator": "Mercury Energy",
+            "Status": "Under construction - first power mid 2026",
+            "Notes": "[31][32]"
+        },
+        {
+            "Name": "Kaiwera DownsStage 2",
+            "Location": "south-east ofGore, Southland",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "155",
+            "Operator": "Mercury Energy",
+            "Status": "Stage 2 - 155MW - under construction - first power mid-2026 - completion mid-2027",
+            "Notes": "[16]"
+        },
+        {
+            "Name": "Kowhai Park Solar Farm",
+            "Location": "Christchurch",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "168",
+            "Operator": "Contact, Lightsource BP",
+            "Status": "Under construction - online Q2 2026",
+            "Notes": "[33]"
+        },
+        {
+            "Name": "Lodestone One",
+            "Location": "Dargaville",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "80",
+            "Operator": "Lodestone Energy",
+            "Status": "consented",
+            "Notes": "[34]"
+        },
+        {
+            "Name": "Pukaki Intake",
+            "Location": "near Twizel, Canterbury",
+            "Type": "Hydro",
+            "Plannedcapacity (MW)": "35",
+            "Operator": "Meridian Energy",
+            "Status": "consents lapsed",
+            "Notes": "[35]"
+        },
+        {
+            "Name": "Manawatu Battery",
+            "Location": "Manawatu",
+            "Type": "Battery",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Meridian Energy",
+            "Status": "applied for consent",
+            "Notes": ""
+        },
+        {
+            "Name": "Mahinerangistage 2",
+            "Location": "Lake Mahinerangi, west of Dunedin",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "138",
+            "Operator": "Mercury Energy",
+            "Status": "consented - FID due 2026",
+            "Notes": "[16]"
+        },
+        {
+            "Name": "Marsden Point",
+            "Location": "Northland",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "26.7",
+            "Operator": "Refining NZ",
+            "Status": "",
+            "Notes": "[36]"
+        },
+        {
+            "Name": "Mount Munro",
+            "Location": "Eketahuna",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "90",
+            "Operator": "Meridian Energy",
+            "Status": "consented",
+            "Notes": "[37]"
+        },
+        {
+            "Name": "Rangiriri",
+            "Location": "Waikato",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "146",
+            "Operator": "Island Green Power",
+            "Status": "in development",
+            "Notes": "[38]"
+        },
+        {
+            "Name": "Ruakākā Solar Farm",
+            "Location": "Northland",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "120",
+            "Operator": "Meridian Energy",
+            "Status": "under construction",
+            "Notes": "[39]"
+        },
+        {
+            "Name": "Mount Cass",
+            "Location": "Canterbury",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "93",
+            "Operator": "MainPower",
+            "Status": "consented",
+            "Notes": "[40]"
+        },
+        {
+            "Name": "Ngakawau",
+            "Location": "West Coast",
+            "Type": "Hydro",
+            "Plannedcapacity (MW)": "24",
+            "Operator": "Hydro Developments",
+            "Status": "Consents expire 2026",
+            "Notes": "[35]"
+        },
+        {
+            "Name": "Ngawha OEC5",
+            "Location": "Kaikohe",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "32",
+            "Operator": "Top Energy",
+            "Status": "consented",
+            "Notes": "[41]"
+        },
+        {
+            "Name": "Onslow",
+            "Location": "Otago",
+            "Type": "Pumped hydro",
+            "Plannedcapacity (MW)": "1200",
+            "Operator": "New Zealand Government",
+            "Status": "detailed investigation; cancelled afterchange of government",
+            "Notes": "[42][43]"
+        },
+        {
+            "Name": "Omeheu",
+            "Location": "Whakatane",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "27",
+            "Operator": "Far North Solar Farm",
+            "Status": "under construction - online Q2 2026",
+            "Notes": "[44]"
+        },
+        {
+            "Name": "Puketoi",
+            "Location": "Manawatu",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "228",
+            "Operator": "Mercury Energy",
+            "Status": "consents expire 2031. FID due mid 2027",
+            "Notes": "[45]"
+        },
+        {
+            "Name": "Rakaia River",
+            "Location": "Canterbury",
+            "Type": "Hydro",
+            "Plannedcapacity (MW)": "16",
+            "Operator": "Ashburton Community Water Trust",
+            "Status": "consented",
+            "Notes": ""
+        },
+        {
+            "Name": "Te Rāhui",
+            "Location": "Taupō",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "400",
+            "Operator": "Nova Energy",
+            "Status": "consented - Stage 1 200MW under contruction. first power 2026",
+            "Notes": "[46]"
+        },
+        {
+            "Name": "Rototuna",
+            "Location": "Northland",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "500",
+            "Operator": "Meridian Energy",
+            "Status": "",
+            "Notes": ""
+        },
+        {
+            "Name": "Slopedown",
+            "Location": "east of Gore, Southland",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "150",
+            "Operator": "Genesis Energy Limited",
+            "Status": "",
+            "Notes": "[47]"
+        },
+        {
+            "Name": "Stratford Battery",
+            "Location": "Stratford, Taranaki",
+            "Type": "Battery",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Contact Energy",
+            "Status": "consented",
+            "Notes": "[48]"
+        },
+        {
+            "Name": "Swannanoa",
+            "Location": "Christchurch",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "200",
+            "Operator": "Meridian Energy",
+            "Status": "seeking consent",
+            "Notes": ""
+        },
+        {
+            "Name": "Tauhara 2",
+            "Location": "Taupo",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "50",
+            "Operator": "Contact Energy",
+            "Status": "in development. Earliest FID FY27",
+            "Notes": ""
+        },
+        {
+            "Name": "Tauhara 3",
+            "Location": "Taupo",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Contact Energy",
+            "Status": "in development. Earliest FID FY30",
+            "Notes": ""
+        },
+        {
+            "Name": "Taheke",
+            "Location": "Okere Falls, Rotoiti",
+            "Type": "Geothermal",
+            "Plannedcapacity (MW)": "35",
+            "Operator": "Eastland",
+            "Status": "consented",
+            "Notes": ""
+        },
+        {
+            "Name": "Taumatatotara",
+            "Location": "10 km south of Taharoa",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "92",
+            "Operator": "Ventus Energy",
+            "Status": "consented stage 1 (seeking amendment for stage 2 tip height of up to 180m)",
+            "Notes": "[30]"
+        },
+        {
+            "Name": "Te Rere Hau Wind Farm re-power",
+            "Location": "Palmerston North / Tararua",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "126",
+            "Operator": "NZ Windfarms-Meridian",
+            "Status": "replace Windflow 91x500 kW with 30x4.2 MW turbines raising wind farm capacity to 126 MW",
+            "Notes": ""
+        },
+        {
+            "Name": "Tararua Wind Farm re-power",
+            "Location": "Palmerston North / Tararua",
+            "Type": "Wind",
+            "Plannedcapacity (MW)": "60MW uplift to 221MW",
+            "Operator": "Mercury Energy",
+            "Status": "replace turbines for uplift of 60MW to 221MW. Planned ~2030",
+            "Notes": ""
+        },
+        {
+            "Name": "Tuahei",
+            "Location": "Te Aroha",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "150",
+            "Operator": "First RenewablesHarmony Energy",
+            "Status": "under construction, first power 2026",
+            "Notes": "[49]"
+        },
+        {
+            "Name": "Tory Channel",
+            "Location": "Marlborough",
+            "Type": "Tidal",
+            "Plannedcapacity (MW)": "10",
+            "Operator": "Energy Pacifica",
+            "Status": "",
+            "Notes": ""
+        },
+        {
+            "Name": "Upper Kaituna",
+            "Location": "Bay of Plenty",
+            "Type": "Hydro",
+            "Plannedcapacity (MW)": "14",
+            "Operator": "Bay of Plenty Energy",
+            "Status": "concession granted. project not being pursued",
+            "Notes": ""
+        },
+        {
+            "Name": "Waikato Solar",
+            "Location": "Waikato",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "100",
+            "Operator": "Meridian Energy",
+            "Status": "design",
+            "Notes": ""
+        },
+        {
+            "Name": "Waitahe Solar Farm",
+            "Location": "Waiotahe",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "81",
+            "Operator": "Far North Solar Farms",
+            "Status": "consented",
+            "Notes": "[25]"
+        },
+        {
+            "Name": "Waiinu Energy Park",
+            "Location": "Taranaki",
+            "Type": "Wind/Solar/Battery",
+            "Plannedcapacity (MW)": "350 Wind550 Solar",
+            "Operator": "Meridian",
+            "Status": "seeking fast track consent",
+            "Notes": ""
+        },
+        {
+            "Name": "Waerenga",
+            "Location": "Waikato",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "190",
+            "Operator": "Island Green Power",
+            "Status": "in development",
+            "Notes": "[50]"
+        },
+        {
+            "Name": "Waikato Power Station",
+            "Location": "Tihiroa, Waikato",
+            "Type": "Gas",
+            "Plannedcapacity (MW)": "360",
+            "Operator": "Todd Generation",
+            "Status": "consented (expires 2027); project not being pursued[51]",
+            "Notes": "[52]"
+        },
+        {
+            "Name": "Western Bay Solar Project",
+            "Location": "Kuratau",
+            "Type": "Solar",
+            "Plannedcapacity (MW)": "500",
+            "Operator": "Meridian",
+            "Status": "seeking fast track consent",
+            "Notes": ""
+        },
+        {
+            "Name": "Whakamaru Battery",
+            "Location": "Whakamaru",
+            "Type": "Battery",
+            "Plannedcapacity (MW)": "150",
+            "Operator": "Mercury Energy",
+            "Status": "preliminary design",
+            "Notes": ""
+        }
+    ]
 }

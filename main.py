@@ -37,5 +37,6 @@ class NewZealand():
     def add_connection(self, location :Location, other_location : Location):
         if (location in self.locations ) and (other_location in self.locations):
             self.connections.append((location,other_location))
+# TODO re-write this so each location owns a power plant or multiple and then has infastrcuter etc and then construct a strcut of locations would be better.
 
     
